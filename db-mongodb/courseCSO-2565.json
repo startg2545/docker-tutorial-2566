@@ -1,0 +1,2908 @@
+[
+  {
+    "courseNo": "261457",
+    "courseTitle": "Digital Image and Video Compression",
+    "courseDetail": "Introduction to image and video coding. Lossless image compression. Lossy image compression. Video compression. Isochronous information and applications.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Able to describe various types of entropy coding",
+        "objTH": "อธิบายแนวคิดของการบีบอัดข้อมูลที่อาศัยเอ็นโทรพีแบบต่างๆ",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Able to apply the concept of lossless compression",
+        "objTH": "ประยุกต์ใช้แนวคิดของการบีบอัดข้อมูลภาพแบบไม่มีการสูญเสีย",
+        "selectedSO": [3]
+      },
+      {
+        "objEN": "Able to describe the concept of JPEG and JPEG 2000 image compression",
+        "objTH": "อธิบายแนวคิดของการบีบอัดข้อมูลภาพตามมาตรฐานเจเพ็ก และเจเพ็กสองพัน",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Able to apply the concept of video compression and its parameters",
+        "objTH": "ประยุกต์ใช้แนวคิดของการบีบอัดข้อมูลวิดีโอและพารามิเตอร์ที่เกี่ยวข้อง",
+        "selectedSO": [1]
+      }
+    ]
+  },
+  {
+    "courseNo": "261336",
+    "courseTitle": "Computer Networks Laboratory",
+    "courseDetail": "Introduction to computer networks laboratory. Transmission media. Network equipment. Network simulation and monitoring tools. Network access layer. Network layer and routing. Transport layer. Application layer. Wireless computer networks. Basic network security.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Apply the concept of computer network to practical computer network",
+        "objTH": "ประยุกต์ใช้แนวคิดของเครือข่ายคอมพิวเตอร์กับเครือข่ายคอมพิวเตอร์จริง",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Analyze and select the proper transmission",
+        "objTH": "วิเคราะห์เลือกใช้สื่อที่ใช้ในการส่งข้อมูลให้เหมาะสมกับการใช้งาน",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Choose the network devices that are proper the computer network usage",
+        "objTH": "เลือกใช้อุปกรณ์เน็ตเวิร์คเหมาะสมกับการใช้งานในเครือข่าย",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Apply the network simulator with the real network device",
+        "objTH": "ใช้งานเครื่องมือในการจำลองการทำงานในระบบเน็ตเวิร์คเพื่อประยุกต์ใช้ในอุปกรณ์จริง",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Analyze and select the network access and network layer protocol",
+        "objTH": "วิเคราะห์และเลือกใช้โพรโทคอลในเน็ตเวิร์คแอคเซสเลเยอร์และเน็ตเวิร์คเลเยอร์",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Explain how transport layer protocol works",
+        "objTH": "อธิบายการทำงานของโพรโทคอลในทรานสพอร์ตเลเยอร์",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Analyze and apply basic applications in application layer",
+        "objTH": "วิเคราะห์และประยุกต์ใช้แอพพลิเคชันแอพพลิเคชันเลเยอร์เบื้องต้น",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Analyze and design the basic wireless network",
+        "objTH": "วิเคราะห์และออกแบบเครือข่ายคอมพิวเตอร์ไร้สายเบื้องต้น",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Explain the fundamental of network security",
+        "objTH": "อธิบายความปลอดภัยของเครือข่ายเบื้องต้น",
+        "selectedSO": [1]
+      }
+    ]
+  },
+  {
+    "courseNo": "261434",
+    "courseTitle": "Computer Network Design and Management",
+    "courseDetail": "Computer network review. Principles and architecture of enterprise network design. Small and large backbone design. Network management. Case studies of network design and management.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "explain the concept computer network",
+        "objTH": "อธิบายหลักการของเครือข่ายคอมพิวเตอร์",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "explain the concept of the enterprise network",
+        "objTH": "อธิบายหลักการออกแบบเครือข่ายขนาดใหญ่",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "design a small network",
+        "objTH": "ออกแบบเครือข่ายขนาดเล็ก",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "explain the concept of the large network design",
+        "objTH": "อธิบายหลักการการออกแบบเครือข่ายขนาดใหญ่",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "manage the network at the basic level",
+        "objTH": "จัดการเครือข่ายขั้นพื้นฐาน",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "design the network monitor system",
+        "objTH": "ออกแบบการติดตามระบบเครือข่าย",
+        "selectedSO": [1]
+      }
+    ]
+  },
+  {
+    "courseNo": "261469",
+    "courseTitle": "Software Project Management for Computer Engineering",
+    "courseDetail": "Concepts of project management. Fundamentals of project management. Ethics in software engineering. Business concepts and software business. Software project initiation. Software project definition. Software project planning. Software project implementation. Software project decommissioning. Quality management in Software project.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Design a simulation for a component in software project management",
+        "objTH": "ออกแบบองค์ประกอบของกระบวนการบริหารจัดการโครงการซอฟต์แวร์",
+        "selectedSO": [2]
+      },
+      {
+        "objEN": "Apply software project management theories to solve engineering problems",
+        "objTH": "ประยุกต์องค์ความรู้ด้านการบริหารจัดการโครงการซอฟต์แวร์เพื่อแก้ปัญหาทางวิศวกรรม",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Apply software engineering codes of ethics",
+        "objTH": "ประยุกต์ใช้หลักจริยธรรมของวิชาชีพวิศวกร",
+        "selectedSO": [4]
+      }
+    ]
+  },
+  {
+    "courseNo": "269421",
+    "courseTitle": "Computer Network Traffic Analysis",
+    "courseDetail": "Probability, Random processes, Markov chains, Markov chains at equilibrium, Queuing analysis, Modeling traffic flow control protocols, Modeling error control protocols, Modeling medium access control protocols, Modeling network traffic.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Understand the computer network traffic analysis methods",
+        "objTH": "นักศึกษาสามารถเข้าใจเกี่ยวกับการวิเคราะห์การจราจรในระบบเครือข่าย ได้",
+        "selectedSO": [1, 6]
+      },
+      {
+        "objEN": "Follow information system and network engineering technology",
+        "objTH": "นักศึกษาสามารถติดตามเทคโนโลยีที่เกี่ยวข้องกับระบบเครือข่าย ได้",
+        "selectedSO": [3, 7]
+      }
+    ]
+  },
+  {
+    "courseNo": "261200",
+    "courseTitle": "Object-Oriented Programming",
+    "courseDetail": "Object-oriented concepts. Classes and objects. Function overloading. Operator overloading. Inheritance. Override. Polymorphism. Advanced topics in object-oriented programming. Project development using object-oriented programming.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "describe the concepts of object-oriented programming",
+        "objTH": "อธิบายแนวคิดการเขียนโปรแกรมเชิงวัตถุ",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "design structures and operations for object-oriented programming",
+        "objTH": "ออกแบบโครงสร้างและการดำเนินการสำหรับการเขียนโปรแกรมเชิงวัตถุ",
+        "selectedSO": [2]
+      },
+      {
+        "objEN": "apply object-oriented analysis and design in software development",
+        "objTH": "ประยุกต์ใช้การวิเคราะห์และออกแบบเชิงวัตถุในการพัฒนาซอฟต์แวร์",
+        "selectedSO": [6]
+      }
+    ]
+  },
+  {
+    "courseNo": "261207",
+    "courseTitle": "Basic Computer Engineering Laboratory",
+    "courseDetail": "Unix file system. Basic commands on Unix system. Shell script programming. Basic Unix administration. Basic database systems. Basic web application.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Able to describe how web application technology works",
+        "objTH": "อธิบายหลักการทำงานของเว็บแอพพลิเคชันและการสื่อสารที่เกี่ยวข้อง",
+        "selectedSO": [7]
+      },
+      {
+        "objEN": "Able to develop a web application using software framework",
+        "objTH": "พัฒนาเว็บแอพพลิเคชันด้วยเฟรมเวิร์คด้านซอฟต์แวร์ได้",
+        "selectedSO": [5, 1]
+      },
+      {
+        "objEN": "Able to develop data service using software framework",
+        "objTH": "พัฒนาบริการข้อมูลเบื้องหลังด้วยเฟรมเวิร์คด้านซอฟต์แวร์ได้",
+        "selectedSO": [1, 5]
+      }
+    ]
+  },
+  {
+    "courseNo": "261305",
+    "courseTitle": "Operating Systems",
+    "courseDetail": "Review of computer architecture structure and introduction to Operating Systems. Process management. Central processing unit management. Process synchronization. Process deadlock. Memory management: paging, segmentation. Virtual memory system. File and device management. Security and protection of operating systems. System programming.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Explain the working principle of computer operating systems.",
+        "objTH": "อธิบายหลักการทำงานของระบบปฎิบัติการคอมพิวเตอร์",
+        "selectedSO": [1, 2, 7, 3, 4]
+      },
+      {
+        "objEN": "Design and develop a program to simulate the basic operation of operating systems.",
+        "objTH": "ออกแบบและพัฒนาโปรแกรมเพื่อจำลองการทำงานเบื้องต้นของระบบปฏิบัติการ",
+        "selectedSO": [1, 2, 5, 6, 7]
+      }
+    ]
+  },
+  {
+    "courseNo": "261405",
+    "courseTitle": "Advanced Computer Engineering Technology",
+    "courseDetail": "Introduction to advanced computer engineering technologies. Platforms of advanced computer engineering technologies. Tools used in advanced computer engineering technologies. Applications of advanced computer engineering technologies. Laws and ethics related to computer engineering.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Able to design a web application that serves large number of users",
+        "objTH": "สามารถออกแบบเว็บแอพพลิเคชันที่รองรับผู้ใช้จำนวนมาก",
+        "selectedSO": [7]
+      },
+      {
+        "objEN": "Able to apply cloud computing technology to deploy machine learning application",
+        "objTH": "สามารถประยุกต์ใช้เทคโนโลยีการประมวลผลแบบกลุ่มเมฆในการให้บริการแอพพลิเคชันที่ออกแบบได้",
+        "selectedSO": [5]
+      },
+      {
+        "objEN": "Able to design a campus network approprieately and securely",
+        "objTH": "สามารถออกแบบระบบเครือข่ายคอมพิวเตอร์ภายในองค์กรได้เหมาะสมและมีความปลอดภัย",
+        "selectedSO": [1]
+      }
+    ]
+  },
+  {
+    "courseNo": "261111",
+    "courseTitle": "Internet and Online Community",
+    "courseDetail": "Introduction to the Internet and online community. Computer technology and modern world. Selecting of online tools and services. Impact of the Internet in daily life. The Internet and cloud computing. Online businesses. Ethics in social networking. Analyzing of social networking data. Online investment. Legal aspects of the Internet and online community. Security and privacy in social networking. Case studies.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Explain the selection of tools and services on the internet",
+        "objTH": "อธิบายการเลือกใช้เครื่องมือและบริการบนอินเทอร์เน็ต",
+        "selectedSO": [2]
+      },
+      {
+        "objEN": "Explain the concept of business and investment on the internet",
+        "objTH": "อธิบายแนวคิดของธุรกิจและการลงทุนบนอินเทอร์เน็ต",
+        "selectedSO": [2]
+      },
+      {
+        "objEN": "Explain the laws and security relevant to the internet",
+        "objTH": "อธิบายกฎหมายและความปลอดภัยบนอินเทอร์เน็ต",
+        "selectedSO": [2]
+      },
+      {
+        "objEN": "Explain the social impact and ethics of the internet",
+        "objTH": "อธิบายผลกระทบทางสังคมและจริยธรรมจากอินเทอร์เน็ต",
+        "selectedSO": [2]
+      }
+    ]
+  },
+  {
+    "courseNo": "269430",
+    "courseTitle": "Wireless And Broadband Computer Networks",
+    "courseDetail": "Computer network architecture, Wireless computer network standards, Wireless computer network connection, Design of wireless computer networks, Broadband computer network architecture, Broadband computer network design, Quality of service of broadband computer networks.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Explain the architectures and concepts of wireless computer networks",
+        "objTH": "อธิบายสถาปัตยกรรมและแนวคิดของเครือข่ายคอมพิวเตอร์ไร้สาย",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Explain the architectures and concepts of broadband computer networks",
+        "objTH": "อธิบายสถาปัตยกรรมและแนวคิดของเครือข่ายคอมพิวเตอร์บรอดแบนด์",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Apply the wireless computer networks",
+        "objTH": "ประยุกต์ใช้เครือข่ายคอมพิวเตอร์ไร้สาย",
+        "selectedSO": [2]
+      },
+      {
+        "objEN": "Apply the broadband computer networks",
+        "objTH": "ประยุกต์ใช้เครือข่ายคอมพิวเตอร์บรอดแบนด์",
+        "selectedSO": [2]
+      }
+    ]
+  },
+  {
+    "courseNo": "261210",
+    "courseTitle": "Logic and Digital Circuits",
+    "courseDetail": "Numeral system and coding. Basic switching circuit theory. Principles of digital logic circuit. Logic gate and Boolean algebra. Logic function reduction. Analysis and design of combination logic circuit. Latch and flip-flop devices. Principles of sequential logic circuit. Analysis and design of sequential logic circuit. Concept of applying digital logic circuit in computer architecture.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Students are able to understand principles of digital logic circuits",
+        "objTH": "นักศึกษาสามารถเข้าใจหลักการของวงจรดิจิตอลลอจิก",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Students are able to understand analysis and design of combination logic circuits",
+        "objTH": "นักศึกษาสามารถเข้าใจการออกแบบวงจรคอมบิเนชั่นลอจิก",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Students are able to understand analysis and design of sequential logic circuits",
+        "objTH": "นักศึกษาสามารถเข้าใจการออกแบบวงจรซีเควนเชียลลอจิก",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "4.\tStudents are able to understand concept of applying digital logic circuits",
+        "objTH": "4.\tนักศึกษาสามารถเข้าใจการประยุกต์ใช้วงจรดิจิตอลลอจิก",
+        "selectedSO": [2]
+      }
+    ]
+  },
+  {
+    "courseNo": "261491",
+    "courseTitle": "Project Survey",
+    "courseDetail": "This is a preparation course for students intending to enroll in the course CPE 492 PROJECT in the next semester. The student will carry out literature survey of preliminary studies and/or experiments in order to arrive at a feasible topic to be persued as his chosen senior project. The students are required to submit a written report outlining the topics they have studied and giving details of the work-plan and time-schedule of the intended project. The report will be evaluated (S or U).",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Students are able to analyze and figure the problem or to define a topic",
+        "objTH": "นักศึกษาสามารถวิเคราะห์และบ่งชี้ปัญหาได้ หรือกำหนดหัวข้อได้",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Students are able to analyze and define the problem solving method",
+        "objTH": "นักศึกษาสามารถวิเคราะห์และหาวิธีการแก้ไข",
+        "selectedSO": [4, 2, 6, 7]
+      },
+      {
+        "objEN": "Students are able to prepare the research proposal",
+        "objTH": "นักศึกษาสามารถจัดทำเอกสารโครงร่างสำหรับงานวิจัย",
+        "selectedSO": [3, 4, 7]
+      }
+    ]
+  },
+  {
+    "courseNo": "261492",
+    "courseTitle": "Project",
+    "courseDetail": "Special investigation or studies of any topic in computer engineering to be carried out by an individual student or a group of students under the supervision of an advisor. A written report must be submitted at completion of the course and an oral examination will be given by a committee.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Study and research the topics that they are interested in",
+        "objTH": "ศึกษาค้นคว้าวิจัยในหัวข้อที่นักศึกษามีความสนใจ",
+        "selectedSO": [7]
+      },
+      {
+        "objEN": "Apply the research methodology to solve the problem of the research",
+        "objTH": "ประยุกต์ขบวนการของงานวิจัย ในการแก้ปัญหาของงานวิจัยที่ศึกษา",
+        "selectedSO": [1, 2, 6, 5, 4]
+      },
+      {
+        "objEN": "Write the research report",
+        "objTH": "จัดทำเอกสารงานวิจัย",
+        "selectedSO": [4, 3, 7]
+      }
+    ]
+  },
+  {
+    "courseNo": "269491",
+    "courseTitle": "Project Survey",
+    "courseDetail": "This course is for the students who will enroll the course 269492 “Project” in the next semester. The students have to survey and research to select topics for projects and methods to do projects.  The students have to report the plan and time schedule for the approval of project in the next semester. The report evaluation result is S or U.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "analyze and define the problem or specify the topic",
+        "objTH": "วิเคราะห์และบ่งชี้ปัญหาได้ หรือกำหนดหัวข้อได้",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "analyze and find the solution",
+        "objTH": "วิเคราะห์และหาวิธีการแก้ไข",
+        "selectedSO": [2, 6, 7, 4]
+      },
+      {
+        "objEN": "write a report for the proposal of the topic",
+        "objTH": "จัดทำเอกสารโครงร่างสำหรับหัวข้อ",
+        "selectedSO": [4, 3, 7]
+      }
+    ]
+  },
+  {
+    "courseNo": "269492",
+    "courseTitle": "Project",
+    "courseDetail": "This course is study or research for the topic by student under supervision from the project advisor. The students have to submit the complete report at the end of the semester. In addition, the project committees evaluate the project by student project presentation.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Study and research the topics that they are interested in",
+        "objTH": "นักศึกษาสามารถทำการศึกษาค้นคว้าวิจัยในหัวข้อที่นักศึกษามีความสนใจ",
+        "selectedSO": [7]
+      },
+      {
+        "objEN": "Apply the research methodology to solve the problem of the research",
+        "objTH": "นักศึกษาสามารถประยุกต์ขบวนการของงานวิจัย ในการแก้ปัญหาของงานวิจัยที่ศึกษา",
+        "selectedSO": [1, 2, 6, 7, 4]
+      },
+      {
+        "objEN": "Write the research report",
+        "objTH": "นักศึกษาสามารถจัดทำเอกสารงานวิจัย",
+        "selectedSO": [4, 3, 7]
+      }
+    ]
+  },
+  {
+    "courseNo": "261335",
+    "courseTitle": "Computer Networks",
+    "courseDetail": "Introduction to computer networks. Network access. Network layer and routing. Transport layer. Application layer. Basic network security. Basic network design and management.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Students are able to explain the basic operations of computer networks.",
+        "objTH": "นักศึกษาสามารถอธิบายการทำงานของเครือข่ายคอมพิวเตอร์เบื้องต้น",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Students are able to analyse and solve basic problems on computer network design.",
+        "objTH": "นักศึกษาสามารถวิเคราะห์และแก้ไขปัญหาเบื้องต้นเกี่ยวกับการออกแบบเครือข่าย",
+        "selectedSO": [2]
+      }
+    ]
+  },
+  {
+    "courseNo": "261361",
+    "courseTitle": "Software Engineering",
+    "courseDetail": "Basic principles of software engineering. Software development processes. Requirements engineering. Software design. Software construction and software testing. Software operation and maintenance, Software quality. Advanced topics in software engineering.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Identify and describe problems that can be solved by a software solution and software engineering.",
+        "objTH": "ระบุและอธิบาย ปัญหาที่สามารถแก้ไขได้ด้วยซอฟต์แวร์และวิศวกรรมซอฟต์แวร์",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Apply engineering design principles to design a software system that meets the specified needs of stakeholders",
+        "objTH": "ประยุกต์ใช้หลักการออกแบบทางวิศวกรรมเพื่อออกแบบระบบซอฟต์แวร์ที่เป็นไปตามความต้องการของผู้ที่มีส่วนได้ส่วนเสีย",
+        "selectedSO": [2]
+      },
+      {
+        "objEN": "Communicate effectively",
+        "objTH": "สื่อสารอย่างมีประสิทธิผล",
+        "selectedSO": [3]
+      },
+      {
+        "objEN": "Think critically about ethical responsibilities in software engineering situations and the impact of solutions on the public.",
+        "objTH": "คิดเชิงวิกฤตเกี่ยวกับความรับผิดชอบทางจริยธรรมต่อสถานการณ์ทางวิศวกรรมซอฟต์แวร์ และผลกระทบของการแก้ปัญหาต่อสาธารณะ",
+        "selectedSO": [4]
+      },
+      {
+        "objEN": "Function effectively on a team to collectively establish goals, plan tasks and meet goals in a collaborative environment.",
+        "objTH": "ทำงานเป็นทีมอย่างมีประสิทธิภาพเพื่อรวมกันตั้งเป้าหมาย วางแผนงาน และบรรลุเป้าหมาย ในสภาพแวดล้อมการทำงานร่วมกัน",
+        "selectedSO": [5]
+      },
+      {
+        "objEN": "Develop, test and evaluate the software system that meets specified needs.",
+        "objTH": "พัฒนา ทดสอบ และประเมินระบบซอฟต์แวร์ที่เป็นไปตามความต้องการที่ระบุ",
+        "selectedSO": [6]
+      },
+      {
+        "objEN": "Acquire and apply new knowledge to software development.",
+        "objTH": "แสวงหาและประยุกต์ใช้ความรู้ใหม่กับการพัฒนาซอฟต์แวร์",
+        "selectedSO": [7]
+      }
+    ]
+  },
+  {
+    "courseNo": "269494",
+    "courseTitle": "Selected Topics in Information Systems and Network Engineering",
+    "courseDetail": "-",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": true,
+    "selTopicSubject": "IT Infrastructure and Cloud Technology",
+    "csoList": [
+      {
+        "objEN": "Understand and able to use basic Cloud technology services",
+        "objTH": "เข้าใจ และสามารถใช้งานบริการพื้นฐานของเทคโนโลยีกลุ่มเมฆได้",
+        "selectedSO": [7]
+      },
+      {
+        "objEN": "Understand and able to use basic Virtualization and Container technology.",
+        "objTH": "เข้าใจ และสามารถใช้งานเทคโนโลยีจำลองการทำงานของคอมพิวเตอร์ และเทคโนโลยีคอนเทนเนอร์แบบพื้นฐานได้",
+        "selectedSO": [7]
+      },
+      {
+        "objEN": "๊ืUnderstand and able to use basic Infrastructure automation technology",
+        "objTH": "เข้าใจ และสามารถใช้งานเทคโนโลยีจัดการทรัพยากรคอมพิวเตอร์แบบอัตโนมัติได้",
+        "selectedSO": [1]
+      }
+    ]
+  },
+  {
+    "courseNo": "261212",
+    "courseTitle": "Logic and Digital Circuits Laboratory",
+    "courseDetail": "Principles of semiconductor devices. Logic gate and Boolean algebra. Logic function reduction techniques. Circuit  development using digital logic ICs. Design of combination logic circuits. Digital logic circuit development using Hardware Description Language (HDL). Latches and flip-flops. Design and development of sequential logic circuit. Design and development of Application Specific IC (ASIC) using digital logic circuits. Applying digital logic circuit in computer architecture design.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "ฺิฺWiring logic and digital circuits correctly and safely",
+        "objTH": "ต่อวงจรลอจิกและดิจิตอลได้อย่างถูกต้องและปลอดภัย",
+        "selectedSO": [2]
+      },
+      {
+        "objEN": "Appling logic and digital circuits properly",
+        "objTH": "ประยุกต์วงจรลอจิกและดิจิตอลได้อย่างเหมาะสม",
+        "selectedSO": [2]
+      },
+      {
+        "objEN": "Coding CLPD circuits correctly",
+        "objTH": "เขียนวงจรซีแอลพีดีได้อย่างถูกต้อง",
+        "selectedSO": [2]
+      }
+    ]
+  },
+  {
+    "courseNo": "261217",
+    "courseTitle": "Data Structures for Computer Engineers",
+    "courseDetail": "Arrays, Linked lists, Abstract data type, and recursion. Analysis tools with computer engineering applications. Stack and queue with computer engineering applications. Lists with computer engineering applications. Trees with computer engineering applications. Priority queue. Map and dictionary with computer engineering applications. Search trees with computer engineering applications. Graphs with computer engineering applications.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Analyze runtime in term of Big O for each data structure operation",
+        "objTH": "วิเคราะห์ความความเร็วในการประมวลผลของโครงสร้างข้อมูลรูปแบบต่าง ๆ ด้วย Big O ได้",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Describe and compare properties and principles of different data structures",
+        "objTH": "อธิบายและเปรียบเทียบ คุณสมบัติและหลักการทำงานของโครงสร้างข้อมูลชนิดต่าง ๆ ได้",
+        "selectedSO": [2]
+      },
+      {
+        "objEN": "Choose, implement, and apply appropriate data structures for solving real world problems",
+        "objTH": "เลือก เขียนโปรแกรมพัฒนา และประยุกต์ใช้งาน โครงสร้างข้อมูลให้เหมาะสมกับปัญหาในโลกความเป็นจริงได้",
+        "selectedSO": [2, 5, 7]
+      },
+      {
+        "objEN": "Be responsible for assigned tasks and be on time",
+        "objTH": "ประพฤติตนเป็นผู้มีความรับผิดชอบต่องานที่ได้รับมอบหมายและตรงต่อเวลา",
+        "selectedSO": [4]
+      }
+    ]
+  },
+  {
+    "courseNo": "269181",
+    "courseTitle": "Foundations of Modern Information Systems and Technologies for Non-IT Majors",
+    "courseDetail": "Information systems in the digital age. Information technology infrastructure. Computer and online essentials. Spreadsheet fundamentals. Introduction to business intelligence and data visualization tools. Uses and applications of spreadsheet, business intelligence and data visualization tools. Case studies.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "explain the role of information systems and technologies in business and other type of organization",
+        "objTH": "อธิบายบทบาทของระบบและเทคโนโลยีสารสนเทศที่มีต่อธุรกิจและองค์กรอื่น ๆ",
+        "selectedSO": [4]
+      },
+      {
+        "objEN": "explain the elements and components of information systems and technologies",
+        "objTH": "อธิบายองค์ประกอบและส่วนประกอบของระบบและเทคโนโลยีสารสนเทศ",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "demonstrate technical knowledge and skill sets together with a focus to the field of study",
+        "objTH": "แสดงความรู้เชิงเทคนิคและชุดทักษะที่สอดคล้องกับสาขาวิชา",
+        "selectedSO": [2]
+      }
+    ]
+  },
+  {
+    "courseNo": "269102",
+    "courseTitle": "Basic Computer Programming for Information Systems and Network Engineering",
+    "courseDetail": "Introduction to computers and programming for information systems and network engineering. Structural programming. Control structures. Functions. Arrays. Pointers.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Understand the principles of computer programming",
+        "objTH": "เข้าใจหลักการของการเขียนโปรแกรมคอมพิวเตอร์",
+        "selectedSO": [1, 5]
+      },
+      {
+        "objEN": "Understand and apply the decision making concepts in programming",
+        "objTH": "เข้าใจและประยุกต์ใช้แนวคิดการสร้างเงื่อนไขในการเขียนโปรแกรม",
+        "selectedSO": [1, 5]
+      },
+      {
+        "objEN": "Understand and apply the control structures in programming",
+        "objTH": "เข้าใจและประยุกต์ใช้โครงสร้างการควบคุมในการเขียนโปรแกรม",
+        "selectedSO": [1, 5]
+      },
+      {
+        "objEN": "Understand and apply the principles of functions in programming",
+        "objTH": "เข้าใจและประยุกต์ใช้หลักการของฟังก์ชันในการเขียนโปรแกรม",
+        "selectedSO": [1, 5]
+      },
+      {
+        "objEN": "Understand and apply the principles of arrays in programming",
+        "objTH": "เข้าใจและประยุกต์ใช้หลักการของอาร์เรย์ในการเขียนโปรแกรม",
+        "selectedSO": [1, 5]
+      }
+    ]
+  },
+  {
+    "courseNo": "261103",
+    "courseTitle": "Basic Computer Engineering",
+    "courseDetail": "Basic of design and problem solving for computer engineering problems. Basic programming principles. Solving computer engineering problems using programming. Basic automated computer control systems. Solving computer engineering problems using computer control systems.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Show basic programming skills and show understanding of related important concepts.",
+        "objTH": "แสดงความสามารถในการเขียนโปรแกรมพื้นฐาน และแสดงความเข้าใจแนวคิดสำคัญที่เกี่ยวข้อง",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Study Computer Engineering concepts within a limited time and present results through constructing a project",
+        "objTH": "ศึกษาค้นคว้าองค์ความรู้ทางวิศวกรรมคอมพิวเตอร์ในเวลาที่จำกัด และนำเสนอผลการศึกษาค้นคว้าผ่านทางการทำโครงงาน",
+        "selectedSO": [7, 2]
+      },
+      {
+        "objEN": "Explain and demonstrate importance of teamwork",
+        "objTH": "อธิบายและแสดงตัวอย่างความสำคัญของการทำงานเป็นทีม",
+        "selectedSO": [3, 4]
+      },
+      {
+        "objEN": "Present tryout results of project management tools",
+        "objTH": "นำเสนอผลการทดลองใช้เครื่องมือบริหารโครงการ",
+        "selectedSO": [4, 5]
+      }
+    ]
+  },
+  {
+    "courseNo": "261216",
+    "courseTitle": "Discrete Mathematics for Computer Engineers",
+    "courseDetail": "Introduction and proofs. Induction. Strong induction. Number theory. Graph theory and coloring. Matching problems. Minimum spanning trees. Communication networks. Relations, partial orders, and scheduling. Sums and asymptotics. Divide and conquer recurrences. Linear recurrences. Counting rules and probability.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Use various techniques to prove claims and solve problems in logic, number theory, and graph theory.",
+        "objTH": "ใช้วิธีการต่างๆ เพื่อพิสูจน์ข้ออ้างและแก้ปัญหาทางตรรกศาสตร์ ทฤษฎีจำนวน และทฤษฏีกราฟได้",
+        "selectedSO": [1, 3, 6, 7]
+      },
+      {
+        "objEN": "Read and understand various proofs.",
+        "objTH": "สามารถอ่านบทพิสูจน์ต่าง ๆ ได้อย่างเข้าใจ",
+        "selectedSO": [1, 7]
+      },
+      {
+        "objEN": "Understand and use relations, combinatorics, and regular expressions to analyze and solve problems in computer engineering.",
+        "objTH": "เข้าใจและใช้ความสัมพันธ์ กฎการนับ และนิพจน์ปรกติในการวิเคราะห์แก้ปัญหาทางด้านวิศวกรรมคอมพิวเตอร์ได้",
+        "selectedSO": [1, 3, 4, 6, 7]
+      }
+    ]
+  },
+  {
+    "courseNo": "261409",
+    "courseTitle": "Functional Programming",
+    "courseDetail": "Programming in imperative style. Tracking values of variables. Attempts to reason about program correctness. Difficulties in reasoning imperative programs. Global states. Unknown factors to the program that could affect correctness. Programming in functional style. Simplicity in reasoning functional programs. Static typing in functional programs. Checking for type safety at compile time. Preventing accidental operations before running programs. Burden from statically typed imperative languages. Annotating variables with types in imperative languages. Loss of productivity from type annotations. Convenience of dynamic typing in recently popular programming languages. Type inference. Eliminating annotation burden with type inference in functional languages. Preservation of type safety at compile time in functional languages. Absence of external state in functional programs. Productivity gain from type inference. Problem solving at a higher level of abstraction in functional programming. Polymorphism. Higher-order functions. Maps. Filters. Folds. Defining functions in point-free style. Pattern matching. Algebraic data types. Purely functional data structures. Typeclasses. Kinds. Records. Type isomorphism. Introduction to category theory. Functors. Monoids. Monads. Input and output in functional programming. Side effects in functional programming. Randomness. Stateful computation. Propositions as types. Advanced topics.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "explain the fundamentals of functional programming",
+        "objTH": "อธิบายหลักการพื้นฐานในการเขียนโปรแกรมเชิงฟังก์ชัน",
+        "selectedSO": [1, 7]
+      },
+      {
+        "objEN": "explain the types of problems suitable for functional programming",
+        "objTH": "อธิบายชนิดของปัญหาที่เหมาะสมต่อการเขียนโปรแกรมเชิงฟังก์ชัน",
+        "selectedSO": [1, 2, 6, 7]
+      },
+      {
+        "objEN": "design functional programs to solve appropriate problems",
+        "objTH": "ออกแบบวิธีการแก้ไขปัญหาที่เหมาะสมต่อการเขียนโปรแกรมเชิงฟังก์ชัน",
+        "selectedSO": [1, 7]
+      }
+    ]
+  },
+  {
+    "courseNo": "269381",
+    "courseTitle": "Database Foundations for Non-IT Majors",
+    "courseDetail": "Data management for developing and maintaining information systems. Data safety, privacy, integrity, and availability are a main priority. How to manage data using databases, how to design a database to avoid data redundancy and inconsistency, and how to access data quickly. Introduction to various database management systems; relational databases; definition and query language for relational databases; data safety, privacy, integrity, and availability; roles of information system users concerning data; and user-friendly user interface design for information systems. Applications of information technology in daily life, such as data storage related to accounting; and on discussions of various case studies stemming from the design of information systems.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "design, analyze, and criticize designs of various data management systems appropriate for information systems",
+        "objTH": "ออกแบบ วิเคราะห์ และวิจารณ์การออกแบบการจัดเก็บข้อมูลแบบต่าง ๆ ที่เหมาะสมกับการใช้งานระบบสารสนเทศ",
+        "selectedSO": [2, 3, 6]
+      },
+      {
+        "objEN": "explain ways to store and maintain data that promote data safety, privacy, and integrity",
+        "objTH": "อธิบายแนวทางการจัดเก็บข้อมูลเพื่อมุ่งเน้นความปลอดภัยและความถูกต้องของข้อมูล",
+        "selectedSO": [2]
+      },
+      {
+        "objEN": "analyze and criticize user-friendliness of information system's user interface designs",
+        "objTH": "วิเคราะห์และวิจารณ์การออกแบบส่วนต่อประสานผู้ใช้ให้เป็นมิตรกับผู้ใช้งานระบบสารสนเทศ",
+        "selectedSO": [2, 3, 6]
+      }
+    ]
+  },
+  {
+    "courseNo": "261459",
+    "courseTitle": "Deep Learning",
+    "courseDetail": "Various architectures in deep learning with the focus on supervises deep learning. The topics include feedforward, convolutional and recurrent neural networks, autoencoders, transformers, and graph convolutional networks. The course also covers various techniques in model initialization, optimization, evaluation, and regularization. The practical uses of deep learning will be demonstrated through applications in computer vision and natural language peocessing.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "design appropriate deep learning architectures for a particular task.",
+        "objTH": "ออกแบบสถาปัตยกรรมการเรียนรู้เชิงลึกที่เหมาะสมกับปัญหา",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "apply techniques that help improve deep learning model training.",
+        "objTH": "ประยุกต์ใช้เทคนิคต่าง ๆ ในการเรียนรู้ของการเรียนรู้เชิงลึก",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "solve practical computer vision and natural language processing problems.",
+        "objTH": "แก้ปัญหาทางด้านการมองเห็นภาพของเครื่องและการประมวลผลภาษาธรรมชาติ",
+        "selectedSO": [4, 2, 7]
+      }
+    ]
+  },
+  {
+    "courseNo": "261408",
+    "courseTitle": "Quantum Computation",
+    "courseDetail": "Introduction to quantum circuit model. Quantum mathematics basics. The power of entanglement. Grover’s algorithm. Quantum query complexity. Boolean Fourier analysis and Simon’s Algorithm. Quantum Fourier transform over Zn. Period finding : Simon’s problem  over Zn. Shor’s algorithm. Quantum complexity.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Students understand and explain quantum systems",
+        "objTH": "นักศึกษาเข้าใจและอธิบายระบบควอนตัมได้",
+        "selectedSO": [1, 6, 7]
+      },
+      {
+        "objEN": "Students understand quantum algorithms and design quantum algorithms to solve some simple problems",
+        "objTH": "นักศึกษาเข้าใจอัลกอริทึมเชิงควอนตัมและออกแบบอัลกอริทึมเชิงควอนตัมในการแก้ปัญหาอย่างง่ายได้",
+        "selectedSO": [1, 6, 7]
+      }
+    ]
+  },
+  {
+    "courseNo": "261499",
+    "courseTitle": "Selected Topics in Computational Intelligence",
+    "courseDetail": "-",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": true,
+    "selTopicSubject": "Natural Language Processing",
+    "csoList": [
+      {
+        "objEN": "Students are able to understand new developments in computational intelligence.",
+        "objTH": "นักศึกษาสามารถเข้าใจเทคโนโลยีทางความฉลาดเชิงคำนวณที่เกิดขึ้นใหม่ได้",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Students are able to follow up the computational intelligence technology.",
+        "objTH": "นักศึกษาสามารถติดตามเทคโนโลยีทางทางความฉลาดเชิงคำนวณได้",
+        "selectedSO": [7]
+      }
+    ]
+  },
+  {
+    "courseNo": "269101",
+    "courseTitle": "Introduction to Information Systems and Network Engineering",
+    "courseDetail": "Introduction to information systems for information systems and network engineering, Introduction to computer hardware for information systems and network engineering, Introduction to computer software for information systems and network engineering, Introduction to computer networks for information systems and network engineering, Introduction to database systems for information systems and network engineering.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Explain the basic concepts of information systems and computer systems",
+        "objTH": "-",
+        "selectedSO": [7, 3, 5]
+      },
+      {
+        "objEN": "Explain the basic concepts of computer networks",
+        "objTH": "-",
+        "selectedSO": [7]
+      },
+      {
+        "objEN": "Explain the basic concepts of database systems",
+        "objTH": "-",
+        "selectedSO": [7]
+      }
+    ]
+  },
+  {
+    "courseNo": "261495",
+    "courseTitle": "Cooperative Education",
+    "courseDetail": "Working in a computer engineering related organization. The positions taken must have the certain responsibility as an employee under supervision of both the mentor employee and advisor. The period of the practice must be at least 16 weeks continuously. Grading will be given on satisfactory (S) or unsatisfactory (U) basis.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Appropriately solve practical problems based on theories",
+        "objTH": "แก้ปัญหาในการปฏิบัติงานจริงโดยอ้างอิงจากทฤษฏีได้อย่างเหมาะสม",
+        "selectedSO": [1, 7, 2, 5]
+      },
+      {
+        "objEN": "Successfully complete required tasks assigned by a computer engineering related organization",
+        "objTH": "ทำภาระกิจที่ได้รับมอบหมายจากสถานประกอบการที่เกี่ยวข้องกับวิศวกรรมคอมพิวเตอร์ได้อย่างสมบูรณ์",
+        "selectedSO": [2, 1, 3, 4, 7, 5]
+      },
+      {
+        "objEN": "Effectively present and write a report describing the results from the cooperative education",
+        "objTH": "นำเสนอผลงานและเขียนรายงานของการไปปฏิบัติหน้าที่สหกิจศึกษาได้อย่างมีประสิทธิภาพ",
+        "selectedSO": [3, 4, 6]
+      }
+    ]
+  },
+  {
+    "courseNo": "269200",
+    "courseTitle": "Web Programming Language",
+    "courseDetail": "Principle of web application, Web application workflow, Languages for web programming, Database-driven website, Authentication and session, Testing and debugging.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Understand how the web works and how the different languages work together to create websites",
+        "objTH": "-",
+        "selectedSO": [1, 2, 5, 7]
+      },
+      {
+        "objEN": "Be comfortable with HTML, CSS, PHP, MySQL, Javascript, Jquery, HTML5, Node.js, Express.js, MongoDB, React, Firebase.",
+        "objTH": "-",
+        "selectedSO": [1, 2, 5, 7]
+      }
+    ]
+  },
+  {
+    "courseNo": "269202",
+    "courseTitle": "Algorthms for Information Systems and Network Engineering",
+    "courseDetail": "Data structure and algorithm review. Binary trees. Multiway trees. Graphs. Problem solving using search. Inform search. Adversarial search. Data compression. Synchronization.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Understand and use non-linear data structures including Binary Trees, B-Trees, Tries and Graphs.",
+        "objTH": "-",
+        "selectedSO": [7]
+      },
+      {
+        "objEN": "Discuss key operations on these data structures, including insertion, deletion, traversal, search, balancing",
+        "objTH": "-",
+        "selectedSO": [7, 6]
+      },
+      {
+        "objEN": "Discuss the application of these data structures to information systems and network engineering problems",
+        "objTH": "-",
+        "selectedSO": [7]
+      }
+    ]
+  },
+  {
+    "courseNo": "269201",
+    "courseTitle": "Information Systems and Network Engineering Laboratory 2",
+    "courseDetail": "Singly linked list. Doubly linked list. Queue simulation. Binary search trees. Binary tree application. Graph introduction. Shortest path. Minimal spanning trees. Algorithms application.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Implement and use non-linear data structures including Binary Trees and Graphs",
+        "objTH": "-",
+        "selectedSO": [1, 2]
+      },
+      {
+        "objEN": "Implement key operations on these data structures, including insertion, deletion, traversal, search, balancing",
+        "objTH": "-",
+        "selectedSO": [1, 2]
+      },
+      {
+        "objEN": "Apply these data structures to information systems and network engineering problems",
+        "objTH": "-",
+        "selectedSO": [1, 2]
+      }
+    ]
+  },
+  {
+    "courseNo": "269462",
+    "courseTitle": "Introduction to Human-Computer Interaction",
+    "courseDetail": "Psychology and science of human-computer interaction. Human and computers. Human-computer interaction. Design for a good user experience. Model. Evaluation. Using experiment. Interaction design technology. Case study.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Identify and analyse users' problems to determine software solutions.",
+        "objTH": "ระบุและวิเคราะห์ปัญหาของผู้ใช้เพื่อหาวิธีแก้ปัญหาโดยใช้ซอฟท์แวร์",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Apply user-centered design principles to produce user interfaces.",
+        "objTH": "ประยุกต์ใช้หลักการออกแบบที่มีผู้ใช้เป็นศูนย์กลางในการสร้างส่วนต่อประสานผู้ใช้",
+        "selectedSO": [2]
+      },
+      {
+        "objEN": "Implement the user interface that communicates effectively and usable.",
+        "objTH": "สร้างส่วนต่อประสานผู้ใช้ที่สามารถสื่อสารได้อย่างมีประสิทธิผลและใช้งานได้ดี",
+        "selectedSO": [3]
+      },
+      {
+        "objEN": "Perform formative and summative evaluations",
+        "objTH": "ประเมินระหว่างการใช้งานและหลังการใช้งาน",
+        "selectedSO": [6]
+      }
+    ]
+  },
+  {
+    "courseNo": "269495",
+    "courseTitle": "Cooperative Education",
+    "courseDetail": "The students enrolled in this course must work in an information systems and network related organization. The positions taken must have the certain responsible as an employee under supervision of both the mentor employee and the faculty member. The period of the practice must be at least 480 hours continuously. Grading will be given on satisfactory or unsatisfactory basis.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Appropriately solve practical problems based on theories",
+        "objTH": "แก้ปัญหาในการปฏิบัติงานจริงโดยอ้างอิงจากทฤษฏีได้อย่างเหมาะสม",
+        "selectedSO": [1, 7, 2, 5]
+      },
+      {
+        "objEN": "Successfully complete required tasks assigned by a information technology and network engineering related organization",
+        "objTH": "ทำภาระกิจที่ได้รับมอบหมายจากสถานประกอบการที่เกี่ยวข้องกับวิศวกรรมคอมพิวเตอร์ได้อย่างสมบูรณ์",
+        "selectedSO": [2, 1, 3, 4, 7, 5]
+      },
+      {
+        "objEN": "Effectively present and write a report describing the results from the cooperative education",
+        "objTH": "นำเสนอผลงานและเขียนรายงานของการไปปฏิบัติหน้าที่สหกิจศึกษาได้อย่างมีประสิทธิภาพ",
+        "selectedSO": [3, 4, 6]
+      }
+    ]
+  },
+  {
+    "courseNo": "261447",
+    "courseTitle": "Network and Information Security",
+    "courseDetail": "Introduction to network and information security. Security policy specifications and evaluation. Firewalls. Hardening of Operating Systems. Authentication and authorization. Monitoring, audit and review. Secret-key and public-key encryption. Digital signature and certification. World-Wide-Web security. E-mail security. General network transportation security. Social and non-technical issues.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Students are able to explain the concepts of network and information security.",
+        "objTH": "นักศึกษาสามารถอธิบายหลักการของความปลอดภัยของเครือข่ายและสารสนเทศ",
+        "selectedSO": [4, 2]
+      }
+    ]
+  },
+  {
+    "courseNo": "269340",
+    "courseTitle": "Data Centric Application Development",
+    "courseDetail": "Introduction to data centric application development, data centric application development processes, naming and directory service, data centric application resource management, schema mapping between front-end applications and back-end applications, concurrency control, XML data for data centric application development, data centric application development in web environment, data centric application development in web service environment.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "explain the related concepts of data centric application development",
+        "objTH": "อธิบายแนวคิดที่เกี่ยวข้องกับการพัฒนาโปรแกรมประยุกต์แบบข้อมูลเป็นศูนย์กลาง",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "apply the related concepts for design and develop data centric applications",
+        "objTH": "ประยุกต์แนวคิดที่เกี่ยวข้องเพื่อออกแบบและพัฒนาโปรแกรมประยุกต์แบบข้อมูลเป็นศูนย์กลาง",
+        "selectedSO": [2]
+      }
+    ]
+  },
+  {
+    "courseNo": "261421",
+    "courseTitle": "Computer Hardware Design",
+    "courseDetail": "Computer hardware design environments. Basic concept and system simulation. Design methodology. Modeling transfer and related language structures. Design management. Defining parameters and simulation execution. Logic circuit design examples. Central processing unit simulation. Design and systhesis using the HDL language.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Review successful and failed innovations",
+        "objTH": "วิจารณ์นวัตกรรมที่ประสบความสำเร็จและล้มเหลว",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Ideate new innovations",
+        "objTH": "สร้างสรรค์แนวคิดนวัตกรรมใหม่",
+        "selectedSO": [2, 5, 7]
+      },
+      {
+        "objEN": "Design and present a business model",
+        "objTH": "ออกแบบและนำเสนอแผนธุรกิจ",
+        "selectedSO": [3, 4, 5]
+      }
+    ]
+  },
+  {
+    "courseNo": "261342",
+    "courseTitle": "Fundamentals of Database Systems",
+    "courseDetail": "Database concepts. Data modeling. Database design and engineering. Data model improvement. Query language. Physical database design. Efficient data retrieval and indexing. Query optimization. Basic concept of transaction, concurrency and recovery techniques. Trends in database systems technology.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "explain basic concepts of database systems.",
+        "objTH": "อธิบายแนวคิดเบื้องต้นของระบบฐานข้อมูล",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "analyze the effectiveness and efficiency of database systems.",
+        "objTH": "วิเคราะห์ประสิทธิผลและประสิทธิภาพของระบบฐานข้อมูล",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "design databases.",
+        "objTH": "ออกแบบฐานข้อมูล",
+        "selectedSO": [2]
+      },
+      {
+        "objEN": "apply and develop database systems.",
+        "objTH": "ประยุกต์และพัฒนาระบบฐานข้อมูล",
+        "selectedSO": [5]
+      }
+    ]
+  },
+  {
+    "courseNo": "261343",
+    "courseTitle": "Database System Laboratory",
+    "courseDetail": "Database management system software installation. Database design. Query language. Database administration. Database application development.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "design and administrate databases",
+        "objTH": "ออกแบบและบริหารฐานข้อมูล",
+        "selectedSO": [2]
+      },
+      {
+        "objEN": "use query languages",
+        "objTH": "ใช้ภาษาสอบถาม",
+        "selectedSO": [6]
+      },
+      {
+        "objEN": "develop applications that can query databases",
+        "objTH": "พัฒนาโปรแกรมประยุกต์ซึ่งสามารถสอบถามฐานข้อมูล",
+        "selectedSO": [1]
+      }
+    ]
+  },
+  {
+    "courseNo": "261706",
+    "courseTitle": "Research Methodology for Computer Engineering",
+    "courseDetail": "Tools of research for computer engineering, writing the research proposal for computer engineering, qualitative research for computer engineering, experimental and causal-comparative designs for computer engineering, statistical techniques for analyzing quantitative data for computer engineering, technical writing for computer engineering",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Students can understand the concept of research methodology.",
+        "objTH": "นักศึกษาสามารถเข้าใจแนวคิดเกี่ยวกับระเบียบวิธีวิจัย",
+        "selectedSO": [1, 2, 3, 4, 5, 6, 7]
+      },
+      {
+        "objEN": "Students are able to define research topics and plan their research.",
+        "objTH": "นักศึกษาสามารถกำหนดหัวข้อวิจัยและวางแผนการทำวิจัยได้",
+        "selectedSO": [1, 2, 3, 4, 5, 6, 7]
+      }
+    ]
+  },
+  {
+    "courseNo": "261498",
+    "courseTitle": "Selected Topics in Computer Networks",
+    "courseDetail": "-",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": true,
+    "selTopicSubject": "HCIA-Datacom",
+    "csoList": [
+      {
+        "objEN": "Students are able to explain topics of current interest and new developments in various fields of computer networking.",
+        "objTH": "นักศึกษาสามารถอธิบายหัวข้อคัดสรรเกี่ยวกับความก้าวหน้าและกำลังเป็นที่สนใจในทางเครือข่ายคอมพิวเตอร์",
+        "selectedSO": [1]
+      }
+    ]
+  },
+  {
+    "courseNo": "261461",
+    "courseTitle": "Visual and Interactive Programming",
+    "courseDetail": "Visual and interactive programming language and environment. Variables, conditonals, and loops. Functions and objects. Arrays, debugging, and libraries. Applying mathematics. Translation, and rotation (in 3D). Images. Text and data input. Data visualization.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Understand basics of visual and interactive programming.",
+        "objTH": "เข้าใจพื้าฐานการเขียนโปรเเกรมเชิงภาพและโต้ตอบ",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Understand and apply the principles of variables, conditions, and loops.",
+        "objTH": "เข้าใจและสามารถประยุกต์หลักการของตัวแปร เงื่อนไข และลูปได้",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Understand and apply the principles of functions and objects.",
+        "objTH": "เข้าใจและและสามารถประยุกต์หลักการของฟังก์ชันและวัตถุได้",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Understand and apply the principles of arrays.",
+        "objTH": "เข้าใจและและสามารถประยุกต์หลักการของอาเรย์ได้",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Understand and apply the principles of mathematics in drawing.",
+        "objTH": "เข้าใจและและสามารถประยุกต์หลักการของคณิตศาสตร์ในการวาดได้",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Understand and apply the principles of translation and rotation in 3D.",
+        "objTH": "เข้าใจและและสามารถประยุกต์หลักการของการแปลและหมุดได้",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Understand and apply the principles of image processing.",
+        "objTH": "เข้าใจและและสามารถประยุกต์หลักการของการประมวลผลภาพได้",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Understand and apply the principles of text and data input.",
+        "objTH": "เข้าใจและและสามารถประยุกต์หลักการของตัวอักษรและข้อมูลอินพุตได้",
+        "selectedSO": [1, 2, 3, 5, 6]
+      },
+      {
+        "objEN": "Understand and apply the principles of algorithms, debugging, and libraries.",
+        "objTH": "เข้าใจและและสามารถประยุกต์หลักการของอัลกอริทึม การแก้ไขโค้ด และการใช้ไลบรารีได้",
+        "selectedSO": [1, 7]
+      }
+    ]
+  },
+  {
+    "courseNo": "261701",
+    "courseTitle": "MATHEMATICS FOR COMPUTER ENGINEERING",
+    "courseDetail": "Differential equation, Linear algebra, graphs and optimization, discrete probability, fourier series and fourier transform, application in Computer Engineering",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Students are able to explain mathematical topics on differential equation, linear algebra, graphs and optimization, discrete probability, Fourier series and Fourier transform",
+        "objTH": "นักศึกษาสามารถอธิบายหลักการคำนวณเบื้องต้นเกี่ยวกับสมการเชิงอนุพันธ์ พีชคณิตเชิงเส้น กราฟและการทำให้เหมาะสมที่สุด ความน่าจะเป็นแบบดีสครีต อนุกรมและการแปลงฟูริเยร์",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Student are able to apply methematical methods to solve computer engineering problems",
+        "objTH": "นักศึกษาสามารถประยุกต์ใช้หลักการทางคณิตศาสตร์เพื่อแก้ไขปัญหางานวิศวกรรมคอมพิวเตอร์",
+        "selectedSO": [2]
+      }
+    ]
+  },
+  {
+    "courseNo": "261702",
+    "courseTitle": "Algorithm Analysis and Design",
+    "courseDetail": "Introduction to design and analysis of algorithms, divide-and-conquer algorithms, dynamic programming, graph algorithms, computational complexity and NP-completeness, search algorithms, parallel and randomized algorithms, efficient algorithms for engineering problems",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Students can analyze algorithms with respect to resources",
+        "objTH": "นักศึกษาวิเคราะห์อัลกอริทึมในแง่ของทรัพยากรที่ใช้ได้",
+        "selectedSO": [1, 2, 6, 7]
+      },
+      {
+        "objEN": "Students can design efficient algorithms.",
+        "objTH": "นักศึกษาสามารถออกแบบอัลกอริทึมอย่างมีประสิทธิภาพได้",
+        "selectedSO": [2, 1, 6, 7]
+      }
+    ]
+  },
+  {
+    "courseNo": "261791",
+    "courseTitle": "SEMINAR IN COMPUTER ENGINEERING",
+    "courseDetail": "Theoretical Studies in Computer Engineering under a supervision of a faculty member. An oral presentation of studied research is required.",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Students learn the landscape of research in their interested fields and are able to identify the topics of their theses.",
+        "objTH": "นักศึกษาเรียนรู้งานวิจัยในสาขาที่ตัวเองสนใจและพร้อมที่จะเริ่มงานวิทยานิพนธ์ของตนเอง",
+        "selectedSO": [1]
+      }
+    ]
+  },
+  {
+    "courseNo": "261753",
+    "courseTitle": "Computer Vision",
+    "courseDetail": "Image perception, object representation, stereo analysis, shape estimation, motion estimation, dynamic vision",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "explain technologies in computer vision",
+        "objTH": "อธิบายเทคโนโลยีในการมองเห็นของคอมพิวเตอร์",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "apply technologies in computer vision",
+        "objTH": "ประยุกต์ใช้เทคโนโลยีในการมองเห็นของคอมพิวเตอร์",
+        "selectedSO": [2, 6, 7]
+      }
+    ]
+  },
+  {
+    "courseNo": "261494",
+    "courseTitle": "Selected Topics in Computer Engineering",
+    "courseDetail": "-",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": true,
+    "selTopicSubject": "IT Infrastructure and Cloud Technology",
+    "csoList": [
+      {
+        "objEN": "Understand and able to use basic Cloud technology services",
+        "objTH": "เข้าใจ และสามารถใช้งานบริการพื้นฐานของเทคโนโลยีกลุ่มเมฆได้",
+        "selectedSO": [7]
+      },
+      {
+        "objEN": "Understand and able to use basic Virtualization and Container technology.",
+        "objTH": "เข้าใจ และสามารถใช้งานเทคโนโลยีจำลองการทำงานของคอมพิวเตอร์ และเทคโนโลยีคอนเทนเนอร์แบบพื้นฐานได้",
+        "selectedSO": [7]
+      },
+      {
+        "objEN": "๊ืUnderstand and able to use basic Infrastructure automation technology",
+        "objTH": "เข้าใจ และสามารถใช้งานเทคโนโลยีจัดการทรัพยากรคอมพิวเตอร์แบบอัตโนมัติได้",
+        "selectedSO": [1]
+      }
+    ]
+  },
+  {
+    "courseNo": "269498",
+    "courseTitle": "Selected Topics in Network Engineering 1",
+    "courseDetail": "-",
+    "year": 2565,
+    "semester": 1,
+    "isSelTopic": true,
+    "selTopicSubject": "HCIA-Datacom",
+    "csoList": [
+      {
+        "objEN": "Students are able to explain topics of current interest and new developments in various fields of computer networking.",
+        "objTH": "นักศึกษาสามารถอธิบายหัวข้อคัดสรรเกี่ยวกับความก้าวหน้าและกำลังเป็นที่สนใจในทางเครือข่ายคอมพิวเตอร์",
+        "selectedSO": [1]
+      }
+    ]
+  },
+  {
+    "courseNo": "261102",
+    "courseTitle": "Computer Programming",
+    "courseDetail": "Introduction to computer programming. Variables and data types, Operators. Flow of control. File input/output. Subroutines. Arrays. Objects and classes. Command line arguments. Basic algorithms.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Understand the fundamentals of computer architecture, computer software development process, programming language and the concept of structural programming.",
+        "objTH": "เข้าใจหลักการพื้นฐานของสถาปัตยกรรมคอมพิวเตอร์, กระบวนการพัฒนาโปรแกรมคอมพิวเตอร์, ภาษาในการเขียนโปรแกรม และหลักการของการเขียนโปรแกรมเชิงโครงสร้าง",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Write, compile and debug computer programs by using integrated development environment (IDE).",
+        "objTH": "เขียน, แปลโปรแกรม และตรวจสอบข้อผิดพลาดของโปรแกรมคอมพิวเตอร์โดยใช้สิ่งแวดล้อมสำหรับการพัฒนาแบบเบ็ดเสร็จ (ไอดีอี) ได้",
+        "selectedSO": [1, 7]
+      },
+      {
+        "objEN": "Understand and develop computer programs with variables, operators, conditional statements, iterative statements, subroutines, arrays, classes.",
+        "objTH": "เข้าใจและพัฒนาโปรแกรมคอมพิวเตอร์ที่มีตัวแปร, ตัวดำเนินการ, ข้อความกำหนดเงื่อนไข, ข้อความการทำซ้ำ, โปรแกรมย่อย. อาเรย์, และ คลาส ได้",
+        "selectedSO": [1, 7]
+      },
+      {
+        "objEN": "Understand and develop computer programs for writing and reading files.",
+        "objTH": "เข้าใจและพัฒนาโปรแกรมคอมพิวเตอร์สำหรับการอ่านและเขียนไฟล์ได้",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Understand and use command line arguments.",
+        "objTH": "เข้าใจและใช้คอมมานด์ไลน์อาร์กิวเมนต์ได้",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Understand and apply some basic algorithms such as recursion, sorting, searching.",
+        "objTH": "เข้าใจและประยุกต์ใช้อัลกอริทึมพื้นฐานบางอย่าง เช่น การเรียกซ้ำ, การเรียงลำดับ หรือ การค้นหา เป็นต้น",
+        "selectedSO": [1, 7]
+      },
+      {
+        "objEN": "Develop computer programs for specified problems both individually and cooperatively.",
+        "objTH": "พัฒนาโปรแกรมคอมพิวเตอร์สำหรับปัญหาที่กำหนดให้ได้ทั้งเมื่อทำงานคนเดียวและทำงานเป็นหมู่คณะ",
+        "selectedSO": [1, 7, 5]
+      }
+    ]
+  },
+  {
+    "courseNo": "261111",
+    "courseTitle": "Internet and Online Community",
+    "courseDetail": "Introduction to the Internet and online community. Computer technology and modern world. Selecting of online tools and services. Impact of the Internet in daily life. The Internet and cloud computing. Online businesses. Ethics in social networking. Analyzing of social networking data. Online investment. Legal aspects of the Internet and online community. Security and privacy in social networking. Case studies.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Explain the selection of tools and services on the internet",
+        "objTH": "อธิบายการเลือกใช้เครื่องมือและบริการบนอินเทอร์เน็ต",
+        "selectedSO": [2]
+      },
+      {
+        "objEN": "Explain the concept of business and investment on the internet",
+        "objTH": "อธิบายแนวคิดของธุรกิจและการลงทุนบนอินเทอร์เน็ต",
+        "selectedSO": [2]
+      },
+      {
+        "objEN": "Explain the laws and security relevant to the internet",
+        "objTH": "อธิบายกฎหมายและความปลอดภัยบนอินเทอร์เน็ต",
+        "selectedSO": [2]
+      },
+      {
+        "objEN": "Explain the social impact and ethics of the internet",
+        "objTH": "อธิบายผลกระทบทางสังคมและจริยธรรมจากอินเทอร์เน็ต",
+        "selectedSO": [2]
+      }
+    ]
+  },
+  {
+    "courseNo": "261112",
+    "courseTitle": "Game Appreciation",
+    "courseDetail": "History of games and gaming industry. Components and characteristics of games. Overview of gaming technology. Concept of game development. Classification of games. First and second generations of games. Third and fourth generations of games. Fifth and sixth generations of games. Seventh and eithth generations of games. Effects of game in Thai society. Effects of game in international society. Case studies.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Students are able to understand how to earn from gaming",
+        "objTH": "เพื่อให้นักศึกษาเข้าใจวิธีหารายได้จากเกม",
+        "selectedSO": [3]
+      }
+    ]
+  },
+  {
+    "courseNo": "261200",
+    "courseTitle": "Object-Oriented Programming",
+    "courseDetail": "Object-oriented concepts. Classes and objects. Function overloading. Operator overloading. Inheritance. Override. Polymorphism. Advanced topics in object-oriented programming. Project development using object-oriented programming.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "describe the concepts of object-oriented programming",
+        "objTH": "อธิบายแนวคิดการเขียนโปรแกรมเชิงวัตถุ",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "design structures and operations for object-oriented programming",
+        "objTH": "ออกแบบโครงสร้างและการดำเนินการสำหรับการเขียนโปรแกรมเชิงวัตถุ",
+        "selectedSO": [2]
+      },
+      {
+        "objEN": "demonstrate the concepts of object-oriented design",
+        "objTH": "สาธิตการใช้แนวคิดการออกแบบเชิงวัตถุ",
+        "selectedSO": [2]
+      },
+      {
+        "objEN": "apply object-oriented analysis and design in software development",
+        "objTH": "ประยุกต์ใช้การวิเคราะห์และออกแบบเชิงวัตถุในการพัฒนาซอฟต์แวร์",
+        "selectedSO": [6]
+      }
+    ]
+  },
+  {
+    "courseNo": "261205",
+    "courseTitle": "Data Structures and Algorithms",
+    "courseDetail": "Concept of data structure. Complexity analysis. Pointer. Objects and classes. Arrays and vectors. Linked List. Stacks, queues and priority queues. Recursion. Sorting algorithms. Hashing. Memory  management. String comparison.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Perform complexity analysis of algorithms using Big-O notation.",
+        "objTH": "Perform complexity analysis of algorithms using Big-O notation.",
+        "selectedSO": [7, 6]
+      },
+      {
+        "objEN": "Use and understand the following data structures; \tArrays \tVectors Linked Lists \tStacks and Queues",
+        "objTH": "Use and understand the following data structures; \tArrays \tVectors Linked Lists \tStacks and Queues",
+        "selectedSO": [7]
+      },
+      {
+        "objEN": "Understand and use recursion in conjunction with recursive data structures",
+        "objTH": "Understand and use recursion in conjunction with recursive data structures",
+        "selectedSO": [7]
+      },
+      {
+        "objEN": "Analyse and use different sorting algorithms such as shell sort, quick sort and heap sort.",
+        "objTH": "Analyse and use different sorting algorithms such as shell sort, quick sort and heap sort.",
+        "selectedSO": [7]
+      },
+      {
+        "objEN": "Understand what hashing means and create good hash functions.",
+        "objTH": "Understand what hashing means and create good hash functions.",
+        "selectedSO": [7]
+      }
+    ]
+  },
+  {
+    "courseNo": "261214",
+    "courseTitle": "Microprocessor and Interfacing",
+    "courseDetail": "Microprocessor-Based System. Memory and Input/Output connecting. Assembly programming. Microprocessor instruction-set and programming techniques. Stack and sub-procedures. The interrupt system. Programmable timers. Serial and parallel ports and data communications. Trends in Microprocessor technology.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Write Assembly Programs that Demonstrates Basic Understanding of Microprocessor Architecture",
+        "objTH": "เขียนโปรแกรมภาษาแอสเซมบลีที่แสดงให้เห็นความเข้าใจสถาปัตยากรรมพื้นฐานของไมโครโพรเซสเซอร์",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Demonstrate the Ability to Choose Suitable Sensors, Actuators, and Interfacing Circuits",
+        "objTH": "สาธิตความสามารถในการเลือกใช้เซ็นเซอร์ แอคทูเอเตอร์ และวงจรเชื่อมต่อที่เหมาะกับงาน",
+        "selectedSO": [2, 3]
+      }
+    ]
+  },
+  {
+    "courseNo": "261215",
+    "courseTitle": "Embedded System Laboratory",
+    "courseDetail": "Embedded system development tools. Basic embedded system circuit construction and control programming. Using analog to digital converters. Output tools controls. Connecting to embedded system expansion devices. Using interrupt system. Printed circuit board design.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Demostrate Micro-Controller Programming Abilities using Hardware-level Functionalities",
+        "objTH": "แสดงความสามารถในการเขียนโปรแกรมควบคุมไมโครคอนโทรลเลอร์, การเรียกใช้ความสามารถระดับฮาร์ดแวร์",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Demonstrate Ability to Select Task-Appropriate Sensors and Actuators Including Required Interfacing Circuits",
+        "objTH": "สาธิตความสามารถในการเลือกใช้เซ็นเซอร์และแอคทูเอเตอร์ที่เหมาะกับงาน รวมถึงวงจรเชื่อมต่อที่จำเป็นได้",
+        "selectedSO": [2, 1]
+      },
+      {
+        "objEN": "Design Embedded Systems to Solve Basic Real-World Engineering Problems",
+        "objTH": "ออกแบบระบบสมองกลฝังตัวที่แก้ไขปัญหาทางวิศวกรรมระดับต้นในสถานการณ์จริงได้",
+        "selectedSO": [3, 5, 6]
+      }
+    ]
+  },
+  {
+    "courseNo": "261218",
+    "courseTitle": "Algorithms for Computer Engineers",
+    "courseDetail": "Growth function and asymptotic notation. Bounding of summations and recurrences in computer engineering. Comparison-based sorting. Linear-time sorting. Medians, maximum, minimum values and order statistics. Greedy algorithm design in computer engineering. Dynamic programming in computer engineering. Hash tables. NP-complete problems and reduction in computer engineering. Approximation algorithms.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Students can analyze correctness and efficiency of algorithms.",
+        "objTH": "นักศึกษาสามารถวิเคราะห์ความถูกต้องและประสิทธิภาพของอัลกอริทึมได้",
+        "selectedSO": [1, 6, 7]
+      },
+      {
+        "objEN": "Students can design algorithms to solve problems.",
+        "objTH": "นักศึกษาสามารถออกแบบอัลกอริทึมในการแก้ปัญหาได้",
+        "selectedSO": [1, 6, 7]
+      }
+    ]
+  },
+  {
+    "courseNo": "261305",
+    "courseTitle": "Operating Systems",
+    "courseDetail": "Review of computer architecture structure and introduction to Operating Systems. Process management. Central processing unit management. Process synchronization. Process deadlock. Memory management: paging, segmentation. Virtual memory system. File and device management. Security and protection of operating systems. System programming.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Explain the working principle of computer operating systems.",
+        "objTH": "อธิบายหลักการทำงานของระบบปฎิบัติการคอมพิวเตอร์",
+        "selectedSO": [1, 2, 7, 3, 4]
+      },
+      {
+        "objEN": "Design and develop a program to simulate the basic operation of operating systems.",
+        "objTH": "ออกแบบและพัฒนาโปรแกรมเพื่อจำลองการทำงานเบื้องต้นของระบบปฏิบัติการ",
+        "selectedSO": [1, 2, 5, 6, 7]
+      }
+    ]
+  },
+  {
+    "courseNo": "261306",
+    "courseTitle": "Computer Engineering Probability and Statistics",
+    "courseDetail": "Introduction to statistics and probability theory, random variables and random vectors. Computer engineering stochastic processes. Samples of computer engineering stochastic processes. Detection algorithm based on probability theory. Prediction algorithm based on probability theory. Statistics and probability theory applications in computer engineering.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "describe the principles of computer engineering probability and statistics",
+        "objTH": "อธิบายหลักการของความน่าจะเป็นและสถิติทางวิศวกรรมคอมพิวเตอร์",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "explain samples of probability and statistics in computer engineering",
+        "objTH": "อธิบายตัวอย่างของความน่าจะเป็นและสถิติทางวิศวกรรมคอมพิวเตอร์",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "apply probability and statistics in computer engineering",
+        "objTH": "ประยุกต์ใช้ความน่าจะเป็นและสถิติทางวิศวกรรมคอมพิวเตอร์",
+        "selectedSO": [2]
+      }
+    ]
+  },
+  {
+    "courseNo": "261332",
+    "courseTitle": "Data and Computer Communications",
+    "courseDetail": "Introduction to data and computer communications. Signal processing and signal analysis. Modulation. Multiplexing and multiple access protocols. Transmission medium. Data compression. Error detection and error control. Information security. Multimedia Data.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Understand the differences and the components of communication systems including analog communication system, digital communication system, baseband communication system and bandpass communication system. (1)",
+        "objTH": "เข้าใจความแตกต่างและองค์ประกอบต่าง ๆ ของระบบสื่อสาร ทั้งระบบสื่อสารแบบแอนะล็อกและดิจิตอลหรือระบบสื่อสารแบบเบสแบนด์และแบนด์พาส (1)",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Understand the differences between analog and digital signals and understand the process of A/D and D/A conversion. (1)",
+        "objTH": "เข้าใจความแตกต่างระหว่างสัญญาณแอนะล็อกและดิจิตอลและเข้าใจกระบวนการการแปลงสัญญาณ A/D และ D/A (1)",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Understand the concept of frequency analysis of the signals, signal or data bandwidth calculation and calculate the spectrum using Fourier transform.",
+        "objTH": "เข้าใจแนวคิดของการวิเคราะห์ความถี่ของสัญญาณ การหาแบนด์วิดท์ของสัญญาณหรือข้อมูล และสามารถคํานวณสเปกตรัมโดยใช้การแปลงฟูริเยร์ได้ (1)",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Understand the concept of both analog and digital modulation such as AM, FM, ASK, FSK, PSK, QAM, PCM, PWM or digital line coding. (1)",
+        "objTH": "เข้าใจแนวคิดของการมอดูเลตสัญญาณทั้งแบบแอนะล็อกและดิจิตอลเช่น AM, FM, ASK, FSK, PSK, QAM, PCM, PWM หรือการเข้ารหัสสายสัญญาณเป็นต้น (1)",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Understand the concept of some of important multiplexing schemes and multiple access protocols such as TDMA, FDMA, CDMA, CSMA, CSMA/CD, or CSMA/CA. (1)",
+        "objTH": "เข้าใจแนวคิดของวิธีมัลติเพล็กซิงและโพรโทคอลการเข้าถึงหลายช่องทางที่สําคัญต่างๆเช่น TDMA, FDMA, CDMA, CSMA, CSMA/CD หรือ CSMA/CA เป็นต้น (1)",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Understand the differences between some of transmission medium in both wired and wireless communication. (1)",
+        "objTH": "เข้าใจความแตกต่างระหว่างตัวกลางการสื่อสารแต่ละตัวที่ใช้ในการสื่อสารแบบมีสายและแบบไร้สาย (1)",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Understand the concept of information theory and some basic data compression methods such as RLE or Huffman code. (1)",
+        "objTH": "เข้าใจแนวคิดของทฤษฎีข้อมูลและวิธีพื้นฐานต่าง ๆ ในการบีบอัดข้อมูล เช่น RLE หรือ การเข้ารหัสฮัฟฟ์แมนเป็นต้น (1)",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Understand the concept of some basic error detection and error correction codes such as Hamming code CRC. (1)",
+        "objTH": "เข้าใจแนวคิดของวิธีการเข้ารหัสพื้นฐานต่าง ๆ สำหรับการตรวจจับและการแก้ไขข้อผิดพลาด เช่น การเข้ารหัสแฮมมิง หรือ CRC เป็นต้น. (1)",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Understand the concept of information security such as cryptography or spread spectrum. (1)",
+        "objTH": "เข้าใจแนวคิดของความปลอดภัยของข้อมูล เช่น วิทยาการเข้ารหัสลับ หรือ การแผ่สเปกตรัม เป็นต้น (1)",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Understand some encoding standards of audio, image and videos. (1)",
+        "objTH": "รู้จักมาตรฐานการเข้ารหัสต่าง ๆ สำหรับข้อมูลเสียง ภาพ และ วีดิทัศน์ (1)",
+        "selectedSO": [1]
+      }
+    ]
+  },
+  {
+    "courseNo": "261342",
+    "courseTitle": "Fundamentals of Database Systems",
+    "courseDetail": "Database concepts. Data modeling. Database design and engineering. Data model improvement. Query language. Physical database design. Efficient data retrieval and indexing. Query optimization. Basic concept of transaction, concurrency and recovery techniques. Trends in database systems technology.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "explain basic concepts of database systems.",
+        "objTH": "อธิบายแนวคิดเบื้องต้นของระบบฐานข้อมูล",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "analyze the effectiveness and efficiency of database systems.",
+        "objTH": "วิเคราะห์ประสิทธิผลและประสิทธิภาพของระบบฐานข้อมูล",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "design databases.",
+        "objTH": "ออกแบบฐานข้อมูล",
+        "selectedSO": [2]
+      },
+      {
+        "objEN": "apply and develop database systems.",
+        "objTH": "ประยุกต์และพัฒนาระบบฐานข้อมูล",
+        "selectedSO": [5]
+      }
+    ]
+  },
+  {
+    "courseNo": "261343",
+    "courseTitle": "Database System Laboratory",
+    "courseDetail": "Database management system software installation. Database design. Query language. Database administration. Database application development.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "design and administrate databases",
+        "objTH": "ออกแบบและบริหารฐานข้อมูล",
+        "selectedSO": [2]
+      },
+      {
+        "objEN": "use query languages",
+        "objTH": "ใช้ภาษาสอบถาม",
+        "selectedSO": [6]
+      },
+      {
+        "objEN": "develop applications that can query databases",
+        "objTH": "พัฒนาโปรแกรมประยุกต์ซึ่งสามารถสอบถามฐานข้อมูล",
+        "selectedSO": [1]
+      }
+    ]
+  },
+  {
+    "courseNo": "261361",
+    "courseTitle": "Software Engineering",
+    "courseDetail": "Basic principles of software engineering. Software development processes. Requirements engineering. Software design. Software construction and software testing. Software operation and maintenance, Software quality. Advanced topics in software engineering.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Identify and describe problems that can be solved by a software solution and software engineering.",
+        "objTH": "ระบุและอธิบาย ปัญหาที่สามารถแก้ไขได้ด้วยซอฟต์แวร์และวิศวกรรมซอฟต์แวร์",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Apply engineering design principles to design a software system that meets the specified needs of stakeholders",
+        "objTH": "ประยุกต์ใช้หลักการออกแบบทางวิศวกรรมเพื่อออกแบบระบบซอฟต์แวร์ที่เป็นไปตามความต้องการของผู้ที่มีส่วนได้ส่วนเสีย",
+        "selectedSO": [2]
+      },
+      {
+        "objEN": "Communicate effectively",
+        "objTH": "สื่อสารอย่างมีประสิทธิผล",
+        "selectedSO": [3]
+      },
+      {
+        "objEN": "Think critically about ethical responsibilities in software engineering situations and the impact of solutions on the public.",
+        "objTH": "คิดเชิงวิกฤตเกี่ยวกับความรับผิดชอบทางจริยธรรมต่อสถานการณ์ทางวิศวกรรมซอฟต์แวร์ และผลกระทบของการแก้ปัญหาต่อสาธารณะ",
+        "selectedSO": [4]
+      },
+      {
+        "objEN": "Function effectively on a team to collectively establish goals, plan tasks and meet goals in a collaborative environment.",
+        "objTH": "ทำงานเป็นทีมอย่างมีประสิทธิภาพเพื่อรวมกันตั้งเป้าหมาย วางแผนงาน และบรรลุเป้าหมาย ในสภาพแวดล้อมการทำงานร่วมกัน",
+        "selectedSO": [5]
+      },
+      {
+        "objEN": "Develop, test and evaluate the software system that meets specified needs.",
+        "objTH": "พัฒนา ทดสอบ และประเมินระบบซอฟต์แวร์ที่เป็นไปตามความต้องการที่ระบุ",
+        "selectedSO": [6]
+      },
+      {
+        "objEN": "Acquire and apply new knowledge to software development.",
+        "objTH": "แสวงหาและประยุกต์ใช้ความรู้ใหม่กับการพัฒนาซอฟต์แวร์",
+        "selectedSO": [7]
+      }
+    ]
+  },
+  {
+    "courseNo": "261405",
+    "courseTitle": "Advanced Computer Engineering Technology",
+    "courseDetail": "Introduction to advanced computer engineering technologies. Platforms of advanced computer engineering technologies. Tools used in advanced computer engineering technologies. Applications of advanced computer engineering technologies. Laws and ethics related to computer engineering.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Able to design a web application that serves large number of users",
+        "objTH": "สามารถออกแบบเว็บแอพพลิเคชันที่รองรับผู้ใช้จำนวนมาก",
+        "selectedSO": [7]
+      },
+      {
+        "objEN": "Able to apply cloud computing technology to deploy machine learning application",
+        "objTH": "สามารถประยุกต์ใช้เทคโนโลยีการประมวลผลแบบกลุ่มเมฆในการให้บริการแอพพลิเคชันที่ออกแบบได้",
+        "selectedSO": [5]
+      },
+      {
+        "objEN": "Able to design a campus network approprieately and securely",
+        "objTH": "สามารถออกแบบระบบเครือข่ายคอมพิวเตอร์ภายในองค์กรได้เหมาะสมและมีความปลอดภัย",
+        "selectedSO": [1]
+      }
+    ]
+  },
+  {
+    "courseNo": "261409",
+    "courseTitle": "Functional Programming",
+    "courseDetail": "Programming in imperative style. Tracking values of variables. Attempts to reason about program correctness. Difficulties in reasoning imperative programs. Global states. Unknown factors to the program that could affect correctness. Programming in functional style. Simplicity in reasoning functional programs. Static typing in functional programs. Checking for type safety at compile time. Preventing accidental operations before running programs. Burden from statically typed imperative languages. Annotating variables with types in imperative languages. Loss of productivity from type annotations. Convenience of dynamic typing in recently popular programming languages. Type inference. Eliminating annotation burden with type inference in functional languages. Preservation of type safety at compile time in functional languages. Absence of external state in functional programs. Productivity gain from type inference. Problem solving at a higher level of abstraction in functional programming. Polymorphism. Higher-order functions. Maps. Filters. Folds. Defining functions in point-free style. Pattern matching. Algebraic data types. Purely functional data structures. Typeclasses. Kinds. Records. Type isomorphism. Introduction to category theory. Functors. Monoids. Monads. Input and output in functional programming. Side effects in functional programming. Randomness. Stateful computation. Propositions as types. Advanced topics.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "explain the fundamentals of functional programming",
+        "objTH": "อธิบายหลักการพื้นฐานในการเขียนโปรแกรมเชิงฟังก์ชัน",
+        "selectedSO": [1, 7]
+      },
+      {
+        "objEN": "explain the types of problems suitable for functional programming",
+        "objTH": "อธิบายชนิดของปัญหาที่เหมาะสมต่อการเขียนโปรแกรมเชิงฟังก์ชัน",
+        "selectedSO": [1, 2, 6, 7]
+      },
+      {
+        "objEN": "design functional programs to solve appropriate problems",
+        "objTH": "ออกแบบวิธีการแก้ไขปัญหาที่เหมาะสมต่อการเขียนโปรแกรมเชิงฟังก์ชัน",
+        "selectedSO": [1, 7]
+      }
+    ]
+  },
+  {
+    "courseNo": "261430",
+    "courseTitle": "Wireless Networks",
+    "courseDetail": "Introduction to radio communications. Wireless netwoks technologies (WPAN, WLAN, WMAN, WWAN). Wireless netwok architecture. Network topology. Routing protocol. Localization. Energy optimization. Network simulation. Wireless netwok advantages and applications.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Students are able to explain concepts of wireless network",
+        "objTH": "นักศึกษาสามารถอธิบายการทำงานของเครือข่ายคอมพิวเตอร์ไร้สายเบื้องต้น",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Students are able to apply knowledges for wireless network design and management",
+        "objTH": "นักศึกษาสามารถนำความรู้ไปออกแบบและจัดการการทำงานของเครือข่ายคอมพิวเตอร์ไร้สายเบื้องต้น",
+        "selectedSO": [2, 6]
+      }
+    ]
+  },
+  {
+    "courseNo": "261433",
+    "courseTitle": "Network Programming",
+    "courseDetail": "Introduction to network programming. Open System Interconnectivity reference model: programming point of view. Client-Server working model and implementation. Transmission Control Protocol sockets. Input/Output multiplexing. User Datagram Protocol sockets. Raw sockets. Name and addressing conversion. Daemon process and superserver. Threading. Advanced issues in networking programming.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Understand the concept of network programming",
+        "objTH": "เข้าใจแนวคิดเกี่ยวกับการเขียนโปรแกรมเครือข่าย",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Able to develop server program",
+        "objTH": "สามารถเขียนโปรแกรมเพื่อทำงานเป็นระบบเซิร์ฟเวอร์ได้",
+        "selectedSO": [2]
+      },
+      {
+        "objEN": "Able to develop client program to connect to server",
+        "objTH": "สามารถเขียนโปรแกรมไคล์เอนท์เพื่อเชื่อมต่อกับเซิร์ฟเวอร์ได้",
+        "selectedSO": [2]
+      }
+    ]
+  },
+  {
+    "courseNo": "261438",
+    "courseTitle": "Fundamentals of Multiprotocol Label Switching",
+    "courseDetail": "Fundementals of computer network. Architecture of Multiprotocol Label Switching. Packet forwarding of Multiprotocol Label Switching. Fundementals of virtual private network. Multiprotocol Label Switching application in virtual private network. Fundementals of traffic engineering. Multiprotocol Label Switching application in traffic engineering.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "explain the architecture of Multiprotocol Label Switching",
+        "objTH": "อธิบายสถาปัตยกรรมของมัลติโพรโทคอลเลเบลสวิตชิง",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "explain how packets are forwarded in Multiprotocol Label Switching",
+        "objTH": "อธิบายการส่งแพ็กเก็ตของมัลติโพรโทคอลเลเบลสวิตชิง",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "explain the fundamentals of virtual private network",
+        "objTH": "อธิบายหลักการพื้นฐานของเครือข่ายส่วนตัวเสมือน",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "apply Multiprotocol Label Switching in virtual private network",
+        "objTH": "ประยุกต์ใช้มัลติโพรโทคอลเลเบลสวิตชิงในเครือข่ายส่วนตัวเสมือน",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "explain the fundamentals of traffic engineering",
+        "objTH": "อธิบายหลักการพื้นฐานของทราฟฟิกเอนจิเนียริง",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "apply Multiprotocol Label Switching in traffic engineering",
+        "objTH": "ประยุกต์ใช้ประยุกต์ใช้มัลติโพรโทคอลเลเบลสวิตชิงในทราฟฟิกเอนจิเนียริง",
+        "selectedSO": [1]
+      }
+    ]
+  },
+  {
+    "courseNo": "261441",
+    "courseTitle": "Internet of Things and Big Data",
+    "courseDetail": "Introduction to Internet of things and big data. Basic electronics circuits. Basic digital design. Basic microcontrollers. Sensors and physical measurement. Bus systems and data communication. Remote communication. Basic data management. Basic data analysis. Visualization techniques.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Students are able to explain fundamentals of Internet of things and big data.",
+        "objTH": "นักศึกษาสามารถอธิบายหลักการของอินเทอร์เน็ตของสรรพสิ่งและข้อมูลขนาดใหญ่",
+        "selectedSO": [1]
+      }
+    ]
+  },
+  {
+    "courseNo": "261446",
+    "courseTitle": "Information Systems",
+    "courseDetail": "Introduction to information systems and roles of information systems in organizations. Characteristics of organizations. Ethical and social impact of information systems. Computer and information processing. Telecommunications. Organizations planning and designing with information systems. Management information systems. Executive information systems. Decision support systems. Expert systems. Interorganizational and international information systems.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Understand the changing role of IS / IT within modern business.",
+        "objTH": "Understand the changing role of IS / IT within modern business.",
+        "selectedSO": [3, 5, 7]
+      },
+      {
+        "objEN": "Appreciate how to use IS / IT to gain a strategic / competitive advantage.",
+        "objTH": "Appreciate how to use IS / IT to gain a strategic / competitive advantage.",
+        "selectedSO": [7]
+      },
+      {
+        "objEN": "Understand the resources that make up an information system.",
+        "objTH": "Understand the resources that make up an information system.",
+        "selectedSO": [7]
+      },
+      {
+        "objEN": "Discuss some applications of IS / IT within modern business; SCM, DSS, KMS, CRM.",
+        "objTH": "Discuss some applications of IS / IT within modern business; SCM, DSS, KMS, CRM.",
+        "selectedSO": [3, 5, 7]
+      },
+      {
+        "objEN": "Understand how to manage system development, from business analysis, through system design, to system implementation.",
+        "objTH": "Understand how to manage system development, from business analysis, through system design, to system implementation.",
+        "selectedSO": [7]
+      },
+      {
+        "objEN": "Understand how to manage existing systems and deal with system problems, such as security problems, ethical problems, or problems caused when integrating international systems.",
+        "objTH": "Understand how to manage existing systems and deal with system problems, such as security problems, ethical problems, or problems caused when integrating international systems.",
+        "selectedSO": [4, 7]
+      }
+    ]
+  },
+  {
+    "courseNo": "261447",
+    "courseTitle": "Network and Information Security",
+    "courseDetail": "Introduction to network and information security. Security policy specifications and evaluation. Firewalls. Hardening of Operating Systems. Authentication and authorization. Monitoring, audit and review. Secret-key and public-key encryption. Digital signature and certification. World-Wide-Web security. E-mail security. General network transportation security. Social and non-technical issues.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Students are able to explain the concepts of network and information security.",
+        "objTH": "นักศึกษาสามารถอธิบายหลักการของความปลอดภัยของเครือข่ายและสารสนเทศ",
+        "selectedSO": [4, 2]
+      }
+    ]
+  },
+  {
+    "courseNo": "261448",
+    "courseTitle": "Data Mining for Computer Engineering",
+    "courseDetail": "Introduction to data mining. Data preprocessing. Association rule mining. Classification and prediction. Clustering analysis. Advanced topics in data mining.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Students can understand the concept of data mining.",
+        "objTH": "นักศึกษาสามารถเข้าใจแนวคิดเกี่ยวกับการทำเหมืองข้อมูล",
+        "selectedSO": [1, 2, 3, 4]
+      },
+      {
+        "objEN": "Students are able to analyze problems, develop programs and apply them appropriately to related work.",
+        "objTH": "นักศึกษาสามารถวิเคราะห์ปัญหา พัฒนาโปรแกรม และนำไปประยุกต์ใช้กับงานที่เกี่ยวข้องได้อย่างเหมาะสม",
+        "selectedSO": [1, 2, 3, 4, 5, 6, 7]
+      }
+    ]
+  },
+  {
+    "courseNo": "261449",
+    "courseTitle": "Software Testing for Computer Engineering",
+    "courseDetail": "Basic principles of software testing. Test case design. Test levels, Black-box and White-box testing. Other types of testing. Supporting tools for software testing. Testing process. Test planning. Writing test report.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Plan and design tests by applying software testing concepts, principles and practices",
+        "objTH": "วางแผนและออกแบบการทดสอบโดยประยุกต์ใช้แนวคิด หลักการ และวิธีปฏิบัติด้านการทดสอบซอฟต์แวร์",
+        "selectedSO": [2, 1]
+      },
+      {
+        "objEN": "Conduct software testing using software testing tools or frameworks",
+        "objTH": "ดำเนินการทดสอบซอฟต์แวร์โดยใช้เครื่องมือการทดสอบหรือกรอบการทดสอบ",
+        "selectedSO": [5, 6]
+      },
+      {
+        "objEN": "Collect, analyze, evaluate test results and write a report",
+        "objTH": "รวบรวม วิเคราะห์ ประเมินผลการทดสอบ และเขียนเป็นรายงาน",
+        "selectedSO": [3]
+      }
+    ]
+  },
+  {
+    "courseNo": "261453",
+    "courseTitle": "Digital Image Processing",
+    "courseDetail": "Fundamental concepts of digital image. Image enhancement in the spatial domain. Image enhancement in frequency domain. Image restoration. Discrete image transform. Wavelet and multiresolution processing. Image segmentation.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "1.\tUnderstand the fundamental concept of digital image processing, e.g., what is connectivity, etc.",
+        "objTH": "1.\tเข้าใจแนวคิดเบื้องต้นของภาพดิจิตอล เช่น อะไรคือ connectivity และอื่นๆ",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "2.\tUnderstand the concept of image enhancement in spatial domain.",
+        "objTH": "2.\tเข้าใจแนวคิดของการเพิ่มคุณภาพของภาพในโดเมนเชิงพื้นที่",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "3.\tUnderstand the concept of image enhancement in frequency",
+        "objTH": "3.\tเข้าใจแนวคิดของการเพิ่มคุณภาพของภาพในโดเมนเชิงความถี่",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "4.\tUnderstand how to use filters.",
+        "objTH": "4.\tเข้าใจการใช้ตัวกรอง",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "5.\tUnderstand how to integrate all the knowledge in image processing taught in class or outside class to solve problem",
+        "objTH": "5.\tเข้าใจการนำความรู้ที่ได้ในชั้นเรียน รวมถึงความรู้นอกห้องเรียนมาใช้ในการแก้ปัญหา",
+        "selectedSO": [7]
+      }
+    ]
+  },
+  {
+    "courseNo": "261458",
+    "courseTitle": "Machine Vision",
+    "courseDetail": "Images and fundamentals of image processing. Image feature extraction. Image recognition and classification. Object detection. Grouping and segmentation. Moving object tracking. Applications of machine vision technologies.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Understand some fundamentals of image processing such as color histogram, image filtering or morphological operators.",
+        "objTH": "เข้าใจพื้นฐานการประมวลผลภาพ เช่น ฮิสโตแกรมของสี, การฟิลเตอร์ภาพ, หรือ ตัวดำเนินการแบบมอร์โฟโลจิคอล เป็นต้น",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Understand both global and local features such as HOG, LBP, GLCM, SIFT, or SURF.",
+        "objTH": "เข้าใจวิธีการสกัดฟีเจอร์ของภาพทั้งแบบเฉพาะที่และแบบภาพรวม เช่น HOG, LBP, GLCM, SIFT หรือ SURF เป็นต้น",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Understand some classification techniques such as KNN, SVM, or Adaboost.",
+        "objTH": "เข้าใจวิธีการจำแนกแบบต่าง ๆ เช่น KNN, SVM หรือ Adaboost เป็นต้น",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Apply proper feature extraction and classification techniques for given image recognition and object detection problems.",
+        "objTH": "ประยุกต์วิธีการสกัดฟีเจอร์และการจำแนกที่เหมาะสมสำหรับปัญหาการรู้จำภาพและการค้นหาวัตถุที่กำหนดให้ได้",
+        "selectedSO": [1, 6]
+      },
+      {
+        "objEN": "Understand some basic image segmentation techniques such as k-mean, mean-shift, or watershed.",
+        "objTH": "เข้าใจวิธีพื้นฐานต่าง ๆ สำหรับการแบ่งย่อยภาพ เช่น k-mean, mean-shift หรือ watershed เป็นต้น",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Understand the concept of object tracking.",
+        "objTH": "เข้าใจแนวคิดของการติดตามวัตถุ",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Develop the real-world application that using machine vision technologies.",
+        "objTH": "พัฒนาแอปพลิเคชันสำหรับโลกแห่งความจริงโดยใช้เทคโนโลยีทางด้านการมองเห็นของเครื่องได้",
+        "selectedSO": [1, 6]
+      }
+    ]
+  },
+  {
+    "courseNo": "261479",
+    "courseTitle": "Bioinformatics Programming",
+    "courseDetail": "Introduction to bioinformatics and molecular data. Algorithms and complexity. Algorithms and techniques in Motif finding. Algorithms and techniques in DNA sequence comparison and gene prediction. Algorithms and techniques in DNA and protein sequencing. Algorithms and techniques in combinatorial pattern matching. Gene expression analysis using clustering and tree algorithms. Special topics in bioinformatics.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Able to describe the benefits of bioinformatics in daily life",
+        "objTH": "สามารถอธิบายถึงประโยชน์ของชีวสารสนเทศในชีวิตประจำวัน",
+        "selectedSO": [3]
+      },
+      {
+        "objEN": "Able to explain the concepts and benefits of genetic sequence alignment",
+        "objTH": "สามารถอธิบายถึงหลักการและประโยชน์ของการวิเคราะห์ความคล้ายของลำดับพันธุกรรม",
+        "selectedSO": [3]
+      },
+      {
+        "objEN": "Able to explain the concepts and benefits of gene expression analysis",
+        "objTH": "สามารถอธิบายถึงหลักการและประโยชน์ของการวิเคราะห์ข้อมูลการแสดงออกของยีน",
+        "selectedSO": [3]
+      },
+      {
+        "objEN": "Able to use bioinformatics databases and apply various bioinformatics tools",
+        "objTH": "สามารถประยุกต์ใช้ฐานข้อมูลและเครื่องมือทางชีวสารสนเทศต่าง ๆ ได้",
+        "selectedSO": [1]
+      }
+    ]
+  },
+  {
+    "courseNo": "261491",
+    "courseTitle": "Project Survey",
+    "courseDetail": "This is a preparation course for students intending to enroll in the course CPE 492 PROJECT in the next semester. The student will carry out literature survey of preliminary studies and/or experiments in order to arrive at a feasible topic to be persued as his chosen senior project. The students are required to submit a written report outlining the topics they have studied and giving details of the work-plan and time-schedule of the intended project. The report will be evaluated (S or U).",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Students are able to analyze and figure the problem or to define a topic",
+        "objTH": "นักศึกษาสามารถวิเคราะห์และบ่งชี้ปัญหาได้ หรือกำหนดหัวข้อได้",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Students are able to analyze and define the problem solving method",
+        "objTH": "นักศึกษาสามารถวิเคราะห์และหาวิธีการแก้ไข",
+        "selectedSO": [4, 2, 6, 7]
+      },
+      {
+        "objEN": "Students are able to prepare the research proposal",
+        "objTH": "นักศึกษาสามารถจัดทำเอกสารโครงร่างสำหรับงานวิจัย",
+        "selectedSO": [3, 4, 7]
+      }
+    ]
+  },
+  {
+    "courseNo": "261492",
+    "courseTitle": "Project",
+    "courseDetail": "Special investigation or studies of any topic in computer engineering to be carried out by an individual student or a group of students under the supervision of an advisor. A written report must be submitted at completion of the course and an oral examination will be given by a committee.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Study and research the topics that they are interested in",
+        "objTH": "ศึกษาค้นคว้าวิจัยในหัวข้อที่นักศึกษามีความสนใจ",
+        "selectedSO": [7]
+      },
+      {
+        "objEN": "Apply the research methodology to solve the problem of the research",
+        "objTH": "ประยุกต์ขบวนการของงานวิจัย ในการแก้ปัญหาของงานวิจัยที่ศึกษา",
+        "selectedSO": [1, 2, 6, 5, 4]
+      },
+      {
+        "objEN": "Write the research report",
+        "objTH": "จัดทำเอกสารงานวิจัย",
+        "selectedSO": [4, 3, 7]
+      }
+    ]
+  },
+  {
+    "courseNo": "261494",
+    "courseTitle": "Selected Topics in Computer Engineering",
+    "courseDetail": "-",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": true,
+    "selTopicSubject": "IT Infrastructure and Cloud Technology",
+    "csoList": [
+      {
+        "objEN": "Able to design an IT system using modern concepts",
+        "objTH": "สามารถออกแบบระบบเทคโนโลยีสารสนเทศโดยใช้หลักการที่ทันสมัย",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Able to describe and apply basic Virtualization and Container technology.",
+        "objTH": "สามารถอธิบาย และประยุกต์ใช้งานเทคโนโลยีจำลองการทำงานของคอมพิวเตอร์ และเทคโนโลยีคอนเทนเนอร์แบบพื้นฐานได้",
+        "selectedSO": [7]
+      },
+      {
+        "objEN": "Able to describe and apply basic Cloud technology services",
+        "objTH": "สามารถอธิบาย และประยุกต์ใช้งานบริการพื้นฐานของเทคโนโลยีกลุ่มเมฆได้",
+        "selectedSO": [7]
+      }
+    ]
+  },
+  {
+    "courseNo": "261498",
+    "courseTitle": "Selected Topics in Computer Networks",
+    "courseDetail": "-",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": true,
+    "selTopicSubject": "HCIA-Datacom",
+    "csoList": [
+      {
+        "objEN": "Students are able to explain topics of current interest and new developments in various fields of computer networking.",
+        "objTH": "นักศึกษาสามารถอธิบายหัวข้อคัดสรรเกี่ยวกับความก้าวหน้าและกำลังเป็นที่สนใจในทางเครือข่ายคอมพิวเตอร์",
+        "selectedSO": [1]
+      }
+    ]
+  },
+  {
+    "courseNo": "261722",
+    "courseTitle": "Advanced Embedded Systems",
+    "courseDetail": "Fundamental of embedded system design, characteristics of high-level embedded processors, high-speed circuit design, advanced inter-device communications, sensor devices, wireless sensor networks, integration between FPGA, ASIC devices and processors,  manufacturing technologies for embedded systems, embedded system applications",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Explain application examples of Internet of Things",
+        "objTH": "อธิบายตัวอย่างการประยุกต์ใช้อินเทอร์เน็ตของสรรพสิ่ง",
+        "selectedSO": [2]
+      },
+      {
+        "objEN": "Wire electronics circuits of Internet of Things",
+        "objTH": "ต่อวงจรอิเล็กทรอนิกส์อินเทอร์เน็ตของสรรรพสิ่ง",
+        "selectedSO": [2]
+      },
+      {
+        "objEN": "Write programs to control microcontrollers in Internet of Things",
+        "objTH": "เขียนโปรแกรมควบคุมไมโครคอนโทรลเลอร์ในงานอินเทอร์เน็ตของสรรพสิ่ง",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Write computer programs to analyze data from Internet of Things",
+        "objTH": "เขียนโปรแกรมคอมพิวเตอร์วิเคราะห์ข้อมูลจากอินเทอร์เน็ตของสรรพสิ่ง",
+        "selectedSO": [6]
+      }
+    ]
+  },
+  {
+    "courseNo": "261745",
+    "courseTitle": "Data Mining",
+    "courseDetail": "Introduction to data mining, data preprocessing, association rule mining, pattern mining related to association rules, classification and prediction, clustering analysis, advanced topics in data mining",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Students can understand the concept of data mining.",
+        "objTH": "นักศึกษาสามารถเข้าใจแนวคิดเกี่ยวกับการทำเหมืองข้อมูล",
+        "selectedSO": [1, 2, 3, 4]
+      },
+      {
+        "objEN": "Students are able to analyze problems, develop programs and apply them appropriately to related work.",
+        "objTH": "นักศึกษาสามารถวิเคราะห์ปัญหา พัฒนาโปรแกรม และนำไปประยุกต์ใช้กับงานที่เกี่ยวข้องได้อย่างเหมาะสม",
+        "selectedSO": [1, 2, 3, 4, 5, 6, 7]
+      }
+    ]
+  },
+  {
+    "courseNo": "261753",
+    "courseTitle": "Computer Vision",
+    "courseDetail": "Image perception, object representation, stereo analysis, shape estimation, motion estimation, dynamic vision",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "explain technologies in computer vision",
+        "objTH": "อธิบายเทคโนโลยีในการมองเห็นของคอมพิวเตอร์",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "apply technologies in computer vision",
+        "objTH": "ประยุกต์ใช้เทคโนโลยีในการมองเห็นของคอมพิวเตอร์",
+        "selectedSO": [2, 6, 7]
+      }
+    ]
+  },
+  {
+    "courseNo": "261781",
+    "courseTitle": "SOFTWARE PROJECT MANAGEMENT",
+    "courseDetail": "Introduction to software project management, Fundamental of software project management, Software project initiation, Software project definition, Software project planning, Software project implementation, Software project decommission, Software project outsourcing, Managing human resource.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Design a simulation for a component in software project management",
+        "objTH": "ออกแบบองค์ประกอบของกระบวนการบริหารจัดการโครงการซอฟต์แวร์",
+        "selectedSO": [2]
+      },
+      {
+        "objEN": "Apply software project management theories to solve engineering problems",
+        "objTH": "ประยุกต์องค์ความรู้ด้านการบริหารจัดการโครงการซอฟต์แวร์เพื่อแก้ปัญหาทางวิศวกรรม",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Apply software engineering codes of ethics",
+        "objTH": "ประยุกต์ใช้หลักจริยธรรมของวิชาชีพวิศวกร",
+        "selectedSO": [4]
+      }
+    ]
+  },
+  {
+    "courseNo": "269103",
+    "courseTitle": "Programming for Information Systems and Network Engineering",
+    "courseDetail": "Modular program design approach, Large-scale application development for information processing, Network application development, Team development, Source code repository, Program unit test.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "describe basic programming for information systems and network engineering",
+        "objTH": "อธิบายการเขียนโปรแกรมพื้นฐานสำหรับวิศวกรรมสารสนเทศและระบบเครือข่าย",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "use basic command line for information systems and network engineering",
+        "objTH": "ใช้คอมมานด์ไลน์พื้นฐานสำหรับวิศวกรรมสารสนเทศและระบบเครือข่าย",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "perform basic ICT skills and Linux essentials for information systems and network engineering",
+        "objTH": "ดำเนินการด้วยทักษะไอซีทีพื้นฐานและความรู้ที่จำเป็นต่อการใช้งานระบบปฏิบัติการลินุกซ์สำหรับวิศวกรรมสารสนเทศและระบบเครือข่าย",
+        "selectedSO": [2]
+      },
+      {
+        "objEN": "apply basic ICT skills and Linux essentials in related applications",
+        "objTH": "ประยุกต์ใช้ทักษะไอซีทีพื้นฐานและความรู้ที่จำเป็นต่อการใช้งานระบบปฏิบัติการลินุกซ์ในแอปพลิเคชันที่เกี่ยวข้อง",
+        "selectedSO": [7]
+      }
+    ]
+  },
+  {
+    "courseNo": "269105",
+    "courseTitle": "Information Systems and Network Engineering Laboratory 1",
+    "courseDetail": "High-level software description. Software development using integrated development environment. Software unit testing. Versioning systems. Documentation. Software development best-practice.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Explain software structures using high-level description",
+        "objTH": "Explain software structures using high-level description",
+        "selectedSO": [1, 2]
+      },
+      {
+        "objEN": "Apply integrated development environment for developing software",
+        "objTH": "Apply integrated development environment for developing software",
+        "selectedSO": [1, 2]
+      },
+      {
+        "objEN": "Apply software unit test and versioning system for maintaining a software project",
+        "objTH": "Apply software unit test and versioning system for maintaining a software project",
+        "selectedSO": [1, 2]
+      },
+      {
+        "objEN": "Explain the roles of documentation in software development",
+        "objTH": "Explain the roles of documentation in software development",
+        "selectedSO": [1, 2]
+      },
+      {
+        "objEN": "Explain software development best-practice",
+        "objTH": "Explain software development best-practice",
+        "selectedSO": [1, 2]
+      }
+    ]
+  },
+  {
+    "courseNo": "269130",
+    "courseTitle": "Fundamentals of Data and Computer Communications for Information Systems and Network Engineering",
+    "courseDetail": "Introduction to data communication and computer network. Mathematical fundamentals for data communication. Basic signal processing and signal analysis. Fundamentals of modulation techniques. Multiplexing and multiple access protocols. Transmission medium. Data compression. Error detection and error control. Information security. Multimedia data.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Students are able to explain concepts of data communications",
+        "objTH": "นักศึกษาสามารถอธิบายการทำงานของการสื่อสารข้อมูลเบื้องต้น",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Students are able to apply knowledges to solve data communications problems",
+        "objTH": "นักศึกษาสามารถวิเคราะห์และแก้ไขปัญหาเบื้องต้นเกี่ยวกับการสื่อสารข้อมูล",
+        "selectedSO": [2, 6]
+      }
+    ]
+  },
+  {
+    "courseNo": "269210",
+    "courseTitle": "Computer Architecture for Information Systems and Network Engineering",
+    "courseDetail": "Overview of computer organization and architecture. Computer evaluation and performance measurement. Number systems and computer arithmetic. Digital logic. Computer function and interconnection. Cache memory. Internal memory. External memory. Virtual memory. Instruction sets: Characteristics and functions. Instruction sets: addressing modes and formats. Processor structure and function. Advanced technology in computer architecture.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Students are able to explain the concept of the computer architecture design",
+        "objTH": "นักศึกษาสามารถอธิบายแนวคิดการออกแบบสถาปัตยกรรมคอมพิวเตอร์",
+        "selectedSO": [1]
+      }
+    ]
+  },
+  {
+    "courseNo": "269281",
+    "courseTitle": "Computer Programming for Non-IT Majors",
+    "courseDetail": "Computer programming languages and integrated development environments (IDE). Variables, data types, expression, and operators. Strings. Lists and tuples. Control structures. File input/output. Functions.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "To understand and apply knowledge about computer programming languages and integrated development environments (IDE).",
+        "objTH": "สามารถเข้าใจและประยุกต์ใช้ความรู้ที่เกี่ยวกับภาษาคอมพิวเตอร์และ IDE",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "To understand and apply knowledge about Variables, Data types, Expression, and Operators.",
+        "objTH": "สามารถเข้าใจและประยุกต์ใช้ความรู้ที่เกี่ยวกับตัวแปร ประเภทข้อมูล การแสดงความสัมพันธ์ และตัวดำเนินการ",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "To understand and apply knowledge about Strings.",
+        "objTH": "สามารถเข้าใจและประยุกต์ใช้ความรู้ที่เกี่ยวกับตัวอักษร",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "To understand and apply knowledge about Lists.",
+        "objTH": "สามารถเข้าใจและประยุกต์ใช้ความรู้ที่เกี่ยวกับตัวแปรประเภทลิสต์",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "To understand and apply knowledge about Control Structures.",
+        "objTH": "สามารถเข้าใจและประยุกต์ใช้ความรู้ที่เกี่ยวกับโครงสร้างการควบคุมโปรแกรม",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "To understand and apply knowledge about  Functions.",
+        "objTH": "สามารถเข้าใจและประยุกต์ใช้ความรู้ที่เกี่ยวกับฟังก์ชัน",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "To understand and apply knowledge about Modules.",
+        "objTH": "สามารถเข้าใจและประยุกต์ใช้ความรู้ที่เกี่ยวกับโมดูล",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "To understand and apply knowledge about File Input/Output.",
+        "objTH": "สามารถเข้าใจและประยุกต์ใช้ความรู้ที่เกี่ยวอินพุตและเอาต์พุตของไฟล์",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "To understand and apply knowledge about Basic Data Visualization.",
+        "objTH": "สามารถเข้าใจและประยุกต์ใช้ความรู้ที่เกี่ยวการแสดงข้อมูลเชิงภาพขั้นพื้นฐาน",
+        "selectedSO": [6]
+      }
+    ]
+  },
+  {
+    "courseNo": "269360",
+    "courseTitle": "Platform Programming",
+    "courseDetail": "Introduction to platform programming, Review of object-oriented design and analysis, Components and middleware, Modules and interfacing, Events and connections, Properties and introspection, Concurrency, Decentralization and serialization, Component frameworks, Model-driven architecture, Service-oriented architecture.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Explain concept and model of platform programming and component-based software engineering",
+        "objTH": "อธิบายแนวคิดและตัวแบบของการเขียนโปรแกรมแพลตฟอร์มและวิศวกรรมซอฟต์แวร์เชิงส่วนประกอบ",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Apply concept and model to design application program using platform programming",
+        "objTH": "ประยุกต์แนวคิดและตัวแบบสำหรับออกแบบโปรแกรมประยุกต์โดยใช้การเขียนโปรแกรมแพลตฟอร์ม",
+        "selectedSO": [2]
+      }
+    ]
+  },
+  {
+    "courseNo": "269370",
+    "courseTitle": "Project Management for Information Systems and Network Engineering",
+    "courseDetail": "Concepts of project management, Ethics in information system and network engineering, Business concepts in information system and network industry, Project initiation for information system and network engineering, Project definition for information system and network engineering, Project planning for information system and network engineering, Project implementation for information system and network engineering, Project deployment for information system and network engineering, Project service and maintenance for information system and network engineering, Project decommissioning for information system and network engineering.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Design a simulation for a component in software project management",
+        "objTH": "ออกแบบองค์ประกอบของกระบวนการบริหารจัดการโครงการซอฟต์แวร์",
+        "selectedSO": [2]
+      },
+      {
+        "objEN": "Apply software project management theories to solve engineering problems",
+        "objTH": "ประยุกต์องค์ความรู้ด้านการบริหารจัดการโครงการซอฟต์แวร์เพื่อแก้ปัญหาทางวิศวกรรม",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Apply software engineering codes of ethics",
+        "objTH": "ประยุกต์ใช้หลักจริยธรรมของวิชาชีพวิศวกร",
+        "selectedSO": [4]
+      }
+    ]
+  },
+  {
+    "courseNo": "269382",
+    "courseTitle": "Data Analytics for Non-IT Majors",
+    "courseDetail": "Introduction to data analytics. Data preparation and simple analysis. Decision tree. Classification. Linear regression.  Clustering.  Case studies and modern techniques in data analysis.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "explain various concepts of data analytics with a focus to the field of study.",
+        "objTH": "อธิบายแนวคิดเกี่ยวกับการวิเคราะห์ข้อมูลที่สอดคล้องกับสาขาวิชา",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "properly apply data analytics tools to solve real-world problems.",
+        "objTH": "วิเคราะห์ข้อมูลและประยุกต์ใช้เครื่องมือในการวิเคราะห์ข้อมูลได้อย่างเหมาะสม",
+        "selectedSO": [6]
+      }
+    ]
+  },
+  {
+    "courseNo": "269400",
+    "courseTitle": "Advanced Information Systems and Network Technology",
+    "courseDetail": "Advanced development process for information systems and network systems, Advanced information systems, Advanced network systems, Advanced information systems trends, Advanced network systems trends.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Able to design a web application that serves large number of users",
+        "objTH": "สามารถออกแบบเว็บแอพพลิเคชันที่รองรับผู้ใช้จำนวนมาก",
+        "selectedSO": [7]
+      },
+      {
+        "objEN": "Able to apply cloud computing technology to deploy machine learning application",
+        "objTH": "สามารถประยุกต์ใช้เทคโนโลยีการประมวลผลแบบกลุ่มเมฆในการให้บริการแอพพลิเคชันที่ออกแบบได้",
+        "selectedSO": [5]
+      },
+      {
+        "objEN": "Able to design a campus network approprieately and securely",
+        "objTH": "สามารถออกแบบระบบเครือข่ายคอมพิวเตอร์ภายในองค์กรได้เหมาะสมและมีความปลอดภัย",
+        "selectedSO": [1]
+      }
+    ]
+  },
+  {
+    "courseNo": "269461",
+    "courseTitle": "Personal Software Process Improvement",
+    "courseDetail": "Quality perspective in software engineering. Software process improvement. Software engineering processes. Measurement in software engineering. Quality in software engineering process. Software design. Software quality. Quality measuring in software engineering. Organizational quality. Personal process improvement.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Understand the theories of personal software process",
+        "objTH": "เข้าใจทฤษฏีการพัฒนากระบวนการซอฟต์แวร์ส่วนบุคคล",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Apply the theories in the students' own personal process",
+        "objTH": "ประยุกต์ใช้ทฤษฎีเพื่อการพัฒนากระบวนการซอฟต์แวร์ของตนเองได้",
+        "selectedSO": [2]
+      }
+    ]
+  },
+  {
+    "courseNo": "269470",
+    "courseTitle": "Information Technology Service Management",
+    "courseDetail": "Concepts of information technology service management. Information technology service strategy. Information technology service design. Information technology service transition. Information technology service operation. Continual improvement of information technology service.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Understand concepts of information technology service",
+        "objTH": "เข้าใจแนวคิดเกี่ยวกับการบริการเทคโนโลยีสารสนเทศ",
+        "selectedSO": [4, 2]
+      },
+      {
+        "objEN": "Understand life cycle of information technology service management",
+        "objTH": "เข้าใจวงจรชีวิตการจัดการบริการเทคโนโลยีสารสนเทศ",
+        "selectedSO": [7, 4]
+      }
+    ]
+  },
+  {
+    "courseNo": "269491",
+    "courseTitle": "Project Survey",
+    "courseDetail": "This course is for the students who will enroll the course 269492 “Project” in the next semester. The students have to survey and research to select topics for projects and methods to do projects.  The students have to report the plan and time schedule for the approval of project in the next semester. The report evaluation result is S or U.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "analyze and define the problem or specify the topic",
+        "objTH": "วิเคราะห์และบ่งชี้ปัญหาได้ หรือกำหนดหัวข้อได้",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "analyze and find the solution",
+        "objTH": "วิเคราะห์และหาวิธีการแก้ไข",
+        "selectedSO": [2, 6, 7, 4]
+      },
+      {
+        "objEN": "write a report for the proposal of the topic",
+        "objTH": "จัดทำเอกสารโครงร่างสำหรับหัวข้อ",
+        "selectedSO": [4, 3, 7]
+      }
+    ]
+  },
+  {
+    "courseNo": "269492",
+    "courseTitle": "Project",
+    "courseDetail": "This course is study or research for the topic by student under supervision from the project advisor. The students have to submit the complete report at the end of the semester. In addition, the project committees evaluate the project by student project presentation.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Study and research the topics that they are interested in",
+        "objTH": "นักศึกษาสามารถทำการศึกษาค้นคว้าวิจัยในหัวข้อที่นักศึกษามีความสนใจ",
+        "selectedSO": [7]
+      },
+      {
+        "objEN": "Apply the research methodology to solve the problem of the research",
+        "objTH": "นักศึกษาสามารถประยุกต์ขบวนการของงานวิจัย ในการแก้ปัญหาของงานวิจัยที่ศึกษา",
+        "selectedSO": [1, 2, 6, 7, 4]
+      },
+      {
+        "objEN": "Write the research report",
+        "objTH": "นักศึกษาสามารถจัดทำเอกสารงานวิจัย",
+        "selectedSO": [4, 3, 7]
+      }
+    ]
+  },
+  {
+    "courseNo": "269494",
+    "courseTitle": "Selected Topics in Information Systems and Network Engineering",
+    "courseDetail": "-",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": true,
+    "selTopicSubject": "IT Infrastructure and Cloud Technology",
+    "csoList": [
+      {
+        "objEN": "Able to design an IT system using modern concepts",
+        "objTH": "สามารถออกแบบระบบเทคโนโลยีสารสนเทศโดยใช้หลักการที่ทันสมัย",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Able to describe and apply basic Virtualization and Container technology.",
+        "objTH": "สามารถอธิบาย และประยุกต์ใช้งานเทคโนโลยีจำลองการทำงานของคอมพิวเตอร์ และเทคโนโลยีคอนเทนเนอร์แบบพื้นฐานได้",
+        "selectedSO": [7]
+      },
+      {
+        "objEN": "Able to describe and apply basic Cloud technology services",
+        "objTH": "สามารถอธิบาย และประยุกต์ใช้งานบริการพื้นฐานของเทคโนโลยีกลุ่มเมฆได้",
+        "selectedSO": [7]
+      }
+    ]
+  },
+  {
+    "courseNo": "269498",
+    "courseTitle": "Selected Topics in Network Engineering 1",
+    "courseDetail": "-",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": true,
+    "selTopicSubject": "HCIA-Datacom",
+    "csoList": [
+      {
+        "objEN": "Students are able to explain topics of current interest and new developments in various fields of computer networking.",
+        "objTH": "นักศึกษาสามารถอธิบายหัวข้อคัดสรรเกี่ยวกับความก้าวหน้าและกำลังเป็นที่สนใจในทางเครือข่ายคอมพิวเตอร์",
+        "selectedSO": [1]
+      }
+    ]
+  },
+  {
+    "courseNo": "261738",
+    "courseTitle": "Multiprotocol Label Switching Technology",
+    "courseDetail": "Principles of multiprotocol label switching, multiprotocol label switching architecture, label distribution, forwarding labeled packets, multiprotocol label switching in virtual private network, multiprotocol label switching in traffic engineering",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "explain the architecture of Multiprotocol Label Switching",
+        "objTH": "อธิบายสถาปัตยกรรมของมัลติโพรโทคอลเลเบลสวิตชิง",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "explain how packets are forwarded in Multiprotocol Label Switching",
+        "objTH": "อธิบายการส่งแพ็กเก็ตของมัลติโพรโทคอลเลเบลสวิตชิง",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "explain the fundamentals of virtual private network",
+        "objTH": "อธิบายหลักการพื้นฐานของเครือข่ายส่วนตัวเสมือน",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "apply Multiprotocol Label Switching in virtual private network",
+        "objTH": "ประยุกต์ใช้มัลติโพรโทคอลเลเบลสวิตชิงในเครือข่ายส่วนตัวเสมือน",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "explain the fundamentals of traffic engineering",
+        "objTH": "อธิบายหลักการพื้นฐานของทราฟฟิกเอนจิเนียริง",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "apply Multiprotocol Label Switching in traffic engineering",
+        "objTH": "ประยุกต์ใช้ประยุกต์ใช้มัลติโพรโทคอลเลเบลสวิตชิงในทราฟฟิกเอนจิเนียริง",
+        "selectedSO": [1]
+      }
+    ]
+  },
+  {
+    "courseNo": "261208",
+    "courseTitle": "Numerical Computation for Engineers",
+    "courseDetail": "Linear algebra for computer engineering. Accuracy and error propagation. Algorithms for systems of linear algebraic equations. Root finding. Interpolation. Least square approximation. Numerical integration. Numerical computation for ordinary differential equations. Numerical computation for partial differential equations. Numerical computation for eigenvalue problems.",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Explain the advantage of solving engineering problem using numerical methods",
+        "objTH": "อธิบายความสำคัญของการหาคำตอบด้วยวิธีคำนวณเชิงตัวเลขในวิชาชีพวิศวกรรมได้",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Apply basic numerical calculation principles of linear algebra for computer engineering.",
+        "objTH": "สามารถประยุกต์ใช้หลักการคำนวณเชิงตัวเลขเบื้องต้นของพีชคณิตเชิงเส้นสำหรับวิศวกรรมคอมพิวเตอร์ได้",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Apply mathematical programs to find answers to computer engineering problems.",
+        "objTH": "สามารถประยุกต์ใช้โปรแกรมทางคณิตศาสตร์เพื่อหาคำตอบของโจทย์ปัญหาทางวิศซกรรมคอมพิวเตอร์ได้",
+        "selectedSO": [2]
+      }
+    ]
+  },
+  {
+    "courseNo": "269494",
+    "courseTitle": "Selected Topics in Information Systems and Network Engineering",
+    "courseDetail": "-",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": true,
+    "selTopicSubject": "Supervised Machine Learning",
+    "csoList": [
+      {
+        "objEN": "Understand the fundamentals of machine learning and AI at large",
+        "objTH": "Understand the fundamentals of machine learning and AI at large",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Understand and build Regression machine learning models in Python",
+        "objTH": "Understand and build Regression machine learning models in Python",
+        "selectedSO": [2, 6]
+      },
+      {
+        "objEN": "Understand and build machine learning algorithms for Classification Problem",
+        "objTH": "Understand and build machine learning algorithms for Classification Problem",
+        "selectedSO": [2, 6]
+      },
+      {
+        "objEN": "Identify major factors in developing machine learning models and how to evaluate",
+        "objTH": "Identify major factors in developing machine learning models and how to evaluate",
+        "selectedSO": [3, 6, 4, 7]
+      }
+    ]
+  },
+  {
+    "courseNo": "261494",
+    "courseTitle": "Selected Topics in Computer Engineering",
+    "courseDetail": "-",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": true,
+    "selTopicSubject": "R for Data Science",
+    "csoList": [
+      {
+        "objEN": "To enable students to apply the R language in basic Data Science work.",
+        "objTH": "เพื่อให้นักศึกษาสามารถประยุกต์ใช้ภาษา R ในงาน Data Science เบื้องต้นได้",
+        "selectedSO": [1, 3, 6]
+      }
+    ]
+  },
+  {
+    "courseNo": "261736",
+    "courseTitle": "Wireless Networking",
+    "courseDetail": "Introduction to radio communications, wireless technologies, wireless network architecture, network topology, routing protocol, coding, network security, localization, energy optimization, network simulation, benefits and applications",
+    "year": 2565,
+    "semester": 2,
+    "isSelTopic": false,
+    "selTopicSubject": null,
+    "csoList": [
+      {
+        "objEN": "Students are able to explain concepts of wireless network",
+        "objTH": "นักศึกษาสามารถอธิบายการทำงานของเครือข่ายคอมพิวเตอร์ไร้สายเบื้องต้น",
+        "selectedSO": [1]
+      },
+      {
+        "objEN": "Students are able to apply knowledges for wireless network design and management",
+        "objTH": "นักศึกษาสามารถนำความรู้ไปออกแบบและจัดการการทำงานของเครือข่ายคอมพิวเตอร์ไร้สายเบื้องต้น",
+        "selectedSO": [2]
+      }
+    ]
+  }
+]
